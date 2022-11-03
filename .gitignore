@@ -1,0 +1,10 @@
+bin/
+include/
+lib/
+lib64/
+lib64
+share/
+pyvenv.cfg
+wandb/
+.ipynb_checkpoints/
+
