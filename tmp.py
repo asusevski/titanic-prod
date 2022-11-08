@@ -10,7 +10,7 @@ import xgboost as xgb
 
 
 df_train = pd.read_csv('./data/train.csv')
-df_generated = pd.read_csv('./data/generated_data/generated_dataset0')
+df_generated = pd.read_csv('./data/generated_data/generated_dataset0.csv')
 
 
 split = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=5)
@@ -105,7 +105,12 @@ y_train = df_train_split_preprocessed[["Survived"]]
 X_test = df_test_split_preprocessed.drop(columns=['Survived'])
 y_test = df_test_split_preprocessed[["Survived"]]
 
+# Generated data:
+X_test_generated = df_generated.drop(columns=['Survived'])
+y_test_generated = df_generated[["Survived"]]
 
+
+# Training model
 xg_model = xgb.XGBClassifier()
 
 xg_model.fit(X_train,y_train)
@@ -114,10 +119,19 @@ testset_preds = xg_model.predict(X_test)
 print(f"Accuracy on hold-out test set: {accuracy_score(y_test, testset_preds)}")
 
 
-generated_preprocessed = pipe.fit_transform(df_generated)
 
-X_test_generatated = generated_preprocessed.drop(columns=['Survived'])
-y_test_generated = generated_preprocessed[["Survived"]]
-
-generated_preds = xg_model.predict(X_test_generatated)
+generated_preds = xg_model.predict(X_test_generated)
 print(f"Accuracy on generated test set: {accuracy_score(y_test_generated, generated_preds)}")
+
+
+print("===== Training on generated data =====")
+xg_model = xgb.XGBClassifier()
+
+xg_model.fit(X_test_generated, y_test_generated)
+
+generated_preds_training = xg_model.predict(X_test_generated)
+
+print(f"Training accuracy on generated data: {accuracy_score(y_test_generated, generated_preds_training)}")
+
+testset_preds = xg_model.predict(X_test)
+print(f"Accuracy on hold-out test set from real data: {accuracy_score(y_test, testset_preds)}")

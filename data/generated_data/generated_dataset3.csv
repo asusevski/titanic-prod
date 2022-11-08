@@ -1,892 +1,892 @@
-PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
-307,1,1,"Alhomaki, Mr. Ilmari Rudolf",female,27.51,0,1,2651,7.0741,A20,C
-147,1,3,"Oreskovic, Mr. Luka",female,,1,0,113784,33.7387,B28,Q
-746,1,2,"Clifford, Mr. George Quincy",female,22.12,0,0,17421,112.5464,,C
-699,0,2,"Icard, Miss. Amelie",male,35.55,0,2,2650,50.0657,D49,C
-773,1,3,"Bourke, Miss. Mary",male,54.99,0,0,PC 17477,29.0438,,S
-775,0,3,"de Mulder, Mr. Theodore",female,25.55,0,2,394140,104.652,C95,C
-891,0,1,"Carbines, Mr. William",female,59.86,0,0,S.O./P.P. 3,103.877,,S
-891,0,3,"Goodwin, Mr. Charles Edward",male,27.57,0,0,113781,4.7361,,S
-891,0,3,"Kenyon, Mrs. Frederick R (Marion)",male,,0,0,347054,194.56,,S
-798,1,2,"Cavendish, Mr. Tyrell William",female,31.85,0,0,2626,63.6476,,S
-652,0,1,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,,4,0,330979,66.9285,B28,C
-832,0,1,"Sdycoff, Mr. Todor",female,28.18,0,0,324669,50.3037,,S
-621,0,1,"Hakkarainen, Mr. Pekka Pietari",female,27.15,0,0,2666,73.7336,,S
-176,1,1,"Shellard, Mr. Frederick William",male,27.18,0,0,C 7077,85.6024,,C
-704,1,2,"Kirkland, Rev. Charles Leonard",female,32.19,1,0,SC/Paris 2163,100.1941,,Q
-804,0,2,"Serepeca, Miss. Augusta",male,32.4,5,0,110152,48.1074,,C
-296,0,3,"Bracken, Mr. James H",female,28.89,0,0,2663,12.7431,,S
-407,1,3,"Johansson, Mr. Erik",male,59.11,0,0,364846,23.058,,C
-767,0,2,"Barkworth, Mr. Algernon Henry Wilson",female,77.09,1,0,364516,69.4746,,C
-562,0,3,"Bowerman, Miss. Elsie Edith",male,75.52,0,0,231945,35.1317,,S
-716,1,3,"Bishop, Mrs. Dickinson H (Helen Walton)",female,,0,0,PC 17483,77.8068,,S
-141,1,3,"Mellinger, Miss. Madeleine Violet",female,32.71,5,0,349233,33.6614,D,S
-728,0,2,"Cacic, Miss. Marija",female,31.87,1,2,11767,8.0359,,S
-341,1,2,"Laleff, Mr. Kristo",female,30.88,1,2,C.A. 31921,27.183,,C
-751,1,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,,1,2,13213,35.7792,C30,
-440,1,3,"Dahl, Mr. Karl Edwart",male,28.96,0,0,113776,81.7883,,C
-874,1,1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",male,21.24,0,0,347077,85.5254,,C
-824,1,2,"Mineff, Mr. Ivan",male,,1,0,349909,17.7539,,S
-681,0,3,"Hodges, Mr. Henry Price",male,30.86,1,0,367230,9.944,,S
-855,0,2,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,,1,1,S.C./PARIS 2079,90.3048,C22 C26,S
-767,0,3,"Sirota, Mr. Maurice",female,24.32,1,0,350406,100.0167,,Q
-349,0,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",male,59.92,3,0,PC 17758,94.3897,C92,C
-474,1,1,"Saad, Mr. Amin",female,59.63,1,0,A4. 54510,57.2143,A5,S
-617,0,1,"Stankovic, Mr. Ivan",male,8.51,0,0,113794,206.0802,,C
-223,1,2,"Barah, Mr. Hanna Assi",male,,0,0,LINE,5.8383,,S
-481,0,3,"Goodwin, Miss. Lillian Amy",male,31.4,0,2,65306,11.5704,,C
-369,0,3,"Parkes, Mr. Francis ""Frank""",female,,1,0,347074,15.8956,,S
-172,1,2,"Carlsson, Mr. Frans Olof",female,19.05,0,2,12749,7.6746,C106,S
-607,1,2,"Andersson, Miss. Erna Alexandra",female,33.37,0,1,113800,36.4236,,C
-248,1,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,66.63,0,0,3101296,7.0053,,C
-763,1,3,"Dahl, Mr. Karl Edwart",male,44.6,1,0,PC 17482,17.3335,,S
-594,1,3,"Oreskovic, Mr. Luka",female,32.4,4,0,350048,24.5856,,S
-891,1,3,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,80.0,0,2,12749,57.1312,,C
-891,0,3,"Panula, Master. Eino Viljami",female,25.98,4,0,382652,96.4603,,S
-532,0,2,"Baclini, Mrs. Solomon (Latifa Qurban)",male,32.27,1,0,31027,12.5604,,C
-562,0,2,"Clifford, Mr. George Quincy",male,28.54,0,0,12749,59.3465,,S
-779,0,3,"Odahl, Mr. Nils Martin",male,31.26,0,0,345769,33.3174,,S
-843,1,3,"Dean, Master. Bertram Vere",female,,0,0,11767,9.3343,G6,S
-822,0,3,"Nicola-Yarred, Miss. Jamila",female,14.3,1,0,358585,14.9668,,S
-656,1,2,"Bowerman, Miss. Elsie Edith",female,31.27,0,0,2662,15.8789,,Q
-236,0,3,"Fortune, Mr. Charles Alexander",male,53.34,0,0,SOTON/OQ 3101316,15.5651,E8,Q
-814,0,3,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",female,31.05,0,0,PC 17582,29.0558,,C
-867,0,3,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",male,,0,2,239865,13.2903,,S
-829,0,1,"Najib, Miss. Adele Kiamie ""Jane""",female,38.0,0,2,PP 9549,45.5189,B73,C
-444,0,1,"Edvardsson, Mr. Gustaf Hjalmar",male,53.99,1,0,367226,239.9264,A31,Q
-610,1,1,"Quick, Miss. Phyllis May",male,28.11,0,0,364849,17.5845,E8,S
-786,1,1,"Pickard, Mr. Berk (Berk Trembisky)",female,17.37,5,0,112053,43.7993,,S
-301,0,2,"Olsen, Mr. Ole Martin",male,,0,0,349223,12.4292,,S
-776,0,3,"Simonius-Blumer, Col. Oberst Alfons",male,30.03,1,1,CA 2144,10.2412,,S
-133,0,3,"Becker, Miss. Marion Louise",male,41.05,1,0,374910,17.9631,C123,C
-891,1,3,"Giglio, Mr. Victor",male,,1,0,31027,82.95,,C
-261,0,3,"Thayer, Mr. John Borland Jr",female,30.99,0,0,315089,21.6405,C92,S
-465,1,1,"Cohen, Mr. Gurshon ""Gus""",female,32.32,1,0,19972,8.5157,,C
-475,0,1,"Balkic, Mr. Cerin",female,,1,1,7540,36.2871,,S
-707,1,2,"Pettersson, Miss. Ellen Natalia",female,30.88,0,0,2649,54.1571,,S
-891,1,2,"McMahon, Mr. Martin",male,72.63,4,0,13502,61.243,,S
-689,0,3,"Attalah, Mr. Sleiman",female,25.91,5,0,2651,17.2547,,S
-826,1,3,"Mineff, Mr. Ivan",male,49.71,1,2,29106,9.7017,,C
-417,0,3,"Rogers, Mr. William John",female,24.86,1,0,347077,110.2469,,C
-586,0,3,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",male,24.17,1,0,13568,12.2139,,S
-245,0,3,"Daniel, Mr. Robert Williams",female,56.62,0,0,250643,42.6486,,S
-241,1,3,"Colley, Mr. Edward Pomeroy",male,32.52,0,0,SC/Paris 2123,28.0601,,S
-848,0,2,"Johnson, Mr. Alfred",male,65.06,0,0,113767,64.0498,,S
-306,0,3,"Quick, Miss. Phyllis May",female,26.52,1,0,220367,24.0674,C83,S
-759,1,3,"Carter, Rev. Ernest Courtenay",male,31.43,0,0,16966,45.0279,B94,S
-866,0,3,"Harknett, Miss. Alice Phoebe",female,,0,0,113781,31.3036,,C
-807,0,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",male,47.46,1,0,17474,61.5329,,Q
-808,1,1,"Paulner, Mr. Uscher",male,62.76,1,0,373450,37.3055,,C
-891,1,1,"Fortune, Mr. Mark",female,31.67,0,0,226875,76.1906,,S
-393,1,3,"Roebling, Mr. Washington Augustus II",male,22.41,1,0,347063,12.7926,C70,C
-891,1,3,"Williams-Lambert, Mr. Fletcher Fellows",female,58.11,0,0,STON/O2. 3101283,98.9661,,S
-754,1,2,"Tobin, Mr. Roger",male,25.46,1,0,PC 17759,41.0109,,S
-678,0,2,"Pernot, Mr. Rene",male,32.35,0,0,4133,11.6961,,S
-853,0,1,"Moraweck, Dr. Ernest",male,24.55,1,0,230080,16.51,,C
-160,1,3,"Fox, Mr. Stanley Hubert",female,44.71,0,0,315151,33.3521,,Q
-584,0,3,"Hunt, Mr. George Henry",female,30.57,1,0,SOTON/OQ 392090,103.0449,,S
-248,1,3,"Jonkoff, Mr. Lalio",male,,0,0,19950,9.158,,S
-219,0,1,"Bishop, Mrs. Dickinson H (Helen Walton)",male,15.88,0,0,349237,65.1007,,S
-891,0,2,"Padro y Manent, Mr. Julian",female,,1,0,113794,132.8408,,C
-756,0,3,"Marechal, Mr. Pierre",female,26.17,0,0,28403,40.4716,,S
-354,0,3,"Cunningham, Mr. Alfred Fleming",female,31.69,0,0,PC 17608,15.1345,,S
-891,1,2,"Burns, Miss. Elizabeth Margaret",female,31.31,0,0,19943,15.6262,,C
-365,1,2,"Laroche, Mr. Joseph Philippe Lemercier",female,60.25,0,2,PC 17608,14.0561,,S
-176,0,3,"Bishop, Mrs. Dickinson H (Helen Walton)",female,34.21,0,0,113806,25.6451,D35,C
-782,0,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,,4,0,2678,72.2779,,S
-673,0,1,"Drazenoic, Mr. Jozef",male,31.65,0,0,11771,73.1973,A5,C
-479,0,2,"Duane, Mr. Frank",male,26.07,1,0,29103,55.3225,,S
-592,0,2,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",male,,0,0,113505,20.9208,C85,C
-708,0,1,"Carter, Mr. William Ernest",male,31.48,0,0,PC 17569,39.6439,,C
-305,0,3,"Yousseff, Mr. Gerious",female,,1,2,3101264,68.5936,E10,Q
-670,0,3,"Petterson, Mr. Johan Emil",male,29.83,0,2,CA. 2314,56.4717,,S
-891,1,2,"Tobin, Mr. Roger",female,31.01,4,0,PC 17569,100.6492,,S
-654,0,2,"Hays, Miss. Margaret Bechstein",female,22.02,0,0,PC 17757,97.038,,Q
-818,0,3,"Davies, Mr. Charles Henry",female,30.12,0,2,WE/P 5735,20.7567,,S
-803,0,2,"Christy, Miss. Julie Rachel",female,,0,0,335677,69.2635,D17,Q
-647,0,1,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,42.36,0,0,SC/AH Basle 541,19.7393,F2,S
-728,0,3,"Brown, Mrs. James Joseph (Margaret Tobin)",female,29.74,5,1,2687,36.3208,,C
-322,1,3,"Goldenberg, Mr. Samuel L",male,68.9,0,0,347068,13.7911,,S
-891,1,3,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",male,31.58,0,0,330931,25.4115,,C
-891,1,3,"Hosono, Mr. Masabumi",female,25.77,0,0,F.C.C. 13531,35.3909,,S
-545,1,3,"Harris, Mr. Walter",male,,0,0,382652,282.5189,,S
-891,0,3,"Turkula, Mrs. (Hedwig)",female,38.56,1,2,113792,53.8538,E25,S
-518,1,3,"Chronopoulos, Mr. Apostolos",female,23.53,0,0,382652,26.6984,,C
-261,0,1,"Hart, Mr. Benjamin",female,,1,0,36209,17.8981,,S
-173,1,2,"Murphy, Miss. Katherine ""Kate""",male,28.68,0,1,110465,8.938,,S
-811,0,3,"Perkin, Mr. John Henry",female,27.45,0,0,SC/PARIS 2131,119.5754,,S
-165,0,3,"Nysten, Miss. Anna Sofia",male,31.0,1,0,349204,77.6067,,S
-604,0,2,"Newell, Miss. Marjorie",female,26.11,0,1,349244,79.8541,,C
-609,1,1,"Landergren, Miss. Aurora Adelia",male,27.08,5,1,315089,69.9987,,C
-263,0,1,"Fortune, Miss. Alice Elizabeth",male,23.42,1,0,PC 17483,11.7226,,S
-657,0,3,"Stone, Mrs. George Nelson (Martha Evelyn)",female,27.22,0,0,PC 17757,11.4512,,C
-358,1,2,"Kelly, Miss. Mary",male,31.7,0,0,376564,83.7938,,S
-610,0,2,"Taylor, Mr. Elmer Zebley",female,31.91,0,0,2667,204.4813,E12,
-713,0,1,"Chronopoulos, Mr. Apostolos",male,,0,0,348121,11.552,D17,S
-891,1,3,"Plotcharsky, Mr. Vasil",male,31.57,0,0,113806,10.5123,,S
-313,0,3,"Petroff, Mr. Nedelio",male,76.98,0,0,250648,29.1465,,S
-148,0,3,"Nakid, Miss. Maria (""Mary"")",female,30.25,0,1,A.5. 18509,75.5506,C148,S
-302,1,2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",male,24.05,0,0,220367,11.595,,C
-463,0,3,"Byles, Rev. Thomas Roussel Davids",female,23.41,1,0,347078,10.9753,B28,S
-389,1,2,"Lang, Mr. Fang",male,30.66,0,0,S.O.C. 14879,40.0209,E68,C
-783,1,3,"Gee, Mr. Arthur H",female,5.95,0,0,1601,18.6494,D36,S
-476,0,3,"Icard, Miss. Amelie",female,22.13,0,0,113572,42.7924,,S
-235,1,3,"del Carlo, Mr. Sebastiano",female,,0,1,315153,8.9405,,S
-854,0,3,"Wheadon, Mr. Edward H",female,31.95,0,2,244367,15.5467,,S
-818,0,3,"Slabenoff, Mr. Petco",female,49.83,0,0,220367,91.0697,D,
-639,1,3,"Greenfield, Mr. William Bertram",female,,0,0,PC 17761,55.3654,,C
-891,1,3,"Taussig, Miss. Ruth",male,31.04,0,2,4133,17.6487,,S
-311,1,1,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",male,30.51,4,0,113788,12.7445,,C
-523,1,3,"Ford, Miss. Doolina Margaret ""Daisy""",male,,3,1,349207,14.4702,C92,C
-263,1,2,"Eitemiller, Mr. George Floyd",male,28.33,1,1,113767,86.0249,,S
-848,1,3,"Kenyon, Mrs. Frederick R (Marion)",male,38.24,1,0,36947,87.1065,E67,S
-280,0,3,"Goldenberg, Mr. Samuel L",male,31.57,0,0,PC 17612,45.7711,C93,S
-825,0,3,"Turpin, Mr. William John Robert",female,53.55,0,2,112050,10.5058,D9,S
-753,0,3,"Hood, Mr. Ambrose Jr",female,64.4,0,0,65303,25.4287,C54,S
-779,1,3,"Butler, Mr. Reginald Fenton",male,46.15,0,0,349912,24.285,,S
-751,0,3,"Hanna, Mr. Mansour",female,23.46,0,0,364851,12.8907,,C
-891,0,2,"Naidenoff, Mr. Penko",female,32.23,0,0,347742,10.1425,,S
-891,0,3,"Zimmerman, Mr. Leo",female,40.85,1,2,111369,101.5716,B71,C
-891,1,3,"Wheadon, Mr. Edward H",male,31.17,0,0,349247,13.1261,,S
-809,0,3,"Lundahl, Mr. Johan Svensson",male,30.53,1,0,PC 17604,156.2696,C30,S
-891,0,2,"Asplund, Master. Edvin Rojj Felix",female,,0,1,350417,8.9929,C99,C
-235,1,1,"Perkin, Mr. John Henry",female,52.59,0,0,110152,9.8047,,C
-891,1,3,"Brown, Mr. Thomas William Solomon",male,,0,0,347088,58.8178,,S
-388,0,1,"Razi, Mr. Raihed",female,,0,0,113804,6.0058,B58 B60,S
-621,1,2,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",male,30.81,5,0,36864,179.3106,B28,Q
-839,0,2,"Van Impe, Miss. Catharina",male,30.37,0,0,113773,124.2452,,Q
-319,1,3,"Minahan, Dr. William Edward",female,31.57,0,0,4134,35.0483,,C
-705,0,3,"Chip, Mr. Chang",female,27.49,0,1,P/PP 3381,10.8705,E101,S
-245,0,3,"Kvillner, Mr. Johan Henrik Johannesson",male,29.91,1,0,35281,88.8518,T,S
-205,1,2,"Partner, Mr. Austen",male,33.03,0,2,113760,12.6666,,C
-767,1,3,"Coxon, Mr. Daniel",female,23.14,1,0,2641,66.677,D49,C
-184,1,3,"Chaffee, Mr. Herbert Fuller",male,30.66,0,0,STON/O2. 3101282,11.1994,,C
-853,0,1,"Frost, Mr. Anthony Wood ""Archie""",female,45.17,0,2,236852,11.9539,,S
-713,0,2,"Hedman, Mr. Oskar Arvid",male,30.72,4,0,382651,188.0607,,C
-643,0,3,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",male,30.21,0,0,1601,5.6802,,S
-636,1,1,"Williams, Mr. Leslie",female,25.82,0,2,PC 17760,8.0113,D37,Q
-725,1,2,"Quick, Miss. Phyllis May",male,79.16,0,0,364851,6.2942,,C
-482,0,3,"Moubarek, Master. Gerios",male,25.18,0,0,SC/PARIS 2167,74.3485,B82 B84,S
-551,1,2,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,0,0,2665,119.925,E33,C
-207,0,2,"Navratil, Master. Edmond Roger",male,,1,0,2691,124.635,D21,Q
-401,1,3,"Rice, Master. George Hugh",female,31.71,1,1,2661,129.5026,E25,S
-280,0,3,"Beckwith, Mr. Richard Leonard",female,22.78,1,0,113776,12.5176,,C
-891,1,3,"Cacic, Miss. Marija",female,13.59,0,2,PC 17610,192.357,,S
-294,1,3,"Cherry, Miss. Gladys",female,29.97,0,0,WE/P 5735,13.3301,,S
-331,0,3,"Nakid, Miss. Maria (""Mary"")",male,30.51,0,0,364851,53.5258,,S
-853,0,3,"Sagesser, Mlle. Emma",female,26.92,0,0,349216,12.6467,C49,Q
-891,0,3,"Mitkoff, Mr. Mito",female,31.9,0,0,28665,25.7139,,S
-306,1,3,"Panula, Master. Urho Abraham",male,,0,1,367230,66.9694,,Q
-692,0,3,"Burns, Miss. Elizabeth Margaret",male,24.74,0,0,113760,8.773,,S
-870,0,3,"Carter, Mr. William Ernest",male,47.42,1,0,C.A. 29566,5.1691,B35,S
-223,0,2,"Dodge, Master. Washington",female,79.06,1,0,C.A. 24579,2.9576,,C
-141,0,2,"Bostandyeff, Mr. Guentcho",female,32.51,0,0,PC 17603,36.6517,,S
-862,1,3,"O'Sullivan, Miss. Bridget Mary",female,,0,2,2626,171.0629,C91,S
-691,1,2,"Andrews, Mr. Thomas Jr",male,,0,0,4133,10.4119,,S
-891,1,3,"Serepeca, Miss. Augusta",female,25.84,1,1,W.E.P. 5734,19.263,C125,S
-744,0,3,"Wilhelms, Mr. Charles",female,,1,0,365226,11.2073,B49,Q
-303,0,3,"Webber, Miss. Susan",male,34.4,0,0,13509,12.0189,,S
-723,1,3,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,32.33,0,0,CA. 2343,34.083,,S
-745,0,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,49.86,0,2,3101278,27.2104,A16,Q
-278,0,3,"Cameron, Miss. Clear Annie",female,23.09,1,0,347087,13.5506,,S
-227,1,1,"Butler, Mr. Reginald Fenton",female,56.29,3,2,345763,12.8125,D45,C
-659,1,3,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,67.73,0,0,112277,78.9302,C101,C
-317,1,2,"Sjoblom, Miss. Anna Sofia",male,,1,0,28551,44.8383,,S
-424,1,1,"Johnson, Master. Harold Theodor",male,30.2,0,0,349247,14.0881,,C
-229,0,2,"Sage, Miss. Stella Anna",male,30.23,0,0,3474,10.8216,F2,Q
-273,0,3,"Lobb, Mr. William Arthur",male,27.99,1,0,19972,10.7424,C103,C
-210,0,3,"Bostandyeff, Mr. Guentcho",female,14.49,0,0,312991,31.8063,C23 C25 C27,S
-723,1,2,"Panula, Master. Eino Viljami",male,65.03,0,0,334912,208.9134,,S
-273,0,3,"Harper, Mr. Henry Sleeper",female,27.39,0,0,113509,201.1755,,S
-190,0,3,"Bing, Mr. Lee",female,32.34,1,0,250644,89.67,C126,S
-412,1,1,"West, Miss. Constance Mirium",female,45.05,0,0,19943,37.6674,C65,C
-673,1,3,"Flynn, Mr. James",male,24.3,0,0,392096,90.545,,S
-732,0,3,"Jonkoff, Mr. Lalio",female,,0,1,113789,125.5244,E36,C
-235,0,3,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",male,28.42,0,0,29751,185.7673,,S
-891,1,3,"Nakid, Mr. Sahid",female,31.7,0,0,248723,6.3197,,S
-483,0,3,"Mitkoff, Mr. Mito",female,31.9,0,0,PC 17755,82.3411,,C
-891,0,2,"Hassan, Mr. Houssein G N",female,57.73,0,0,250651,11.1517,,S
-718,0,3,"Baclini, Miss. Eugenie",female,29.51,0,1,C.A. 5547,251.3116,,S
-731,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,30.53,1,0,2908,80.312,,Q
-891,0,3,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",male,,0,0,347054,13.5549,,S
-643,0,3,"Connolly, Miss. Kate",male,25.35,0,2,11751,25.6968,D20,C
-553,0,3,"Goodwin, Master. Sidney Leonard",female,30.83,5,0,113572,87.218,B28,C
-540,1,2,"Simonius-Blumer, Col. Oberst Alfons",male,49.65,2,1,110152,116.4649,,S
-891,1,1,"Mangan, Miss. Mary",male,27.68,0,2,WE/P 5735,65.5112,,S
-815,0,2,"Aubart, Mme. Leontine Pauline",female,76.33,0,0,382652,10.6225,,S
-598,0,3,"Anderson, Mr. Harry",female,23.56,0,0,349206,37.2421,B18,S
-511,1,3,"Larsson, Mr. Bengt Edvin",male,32.58,0,0,17466,114.7065,,C
-891,0,3,"Kent, Mr. Edward Austin",male,30.59,1,0,PC 17608,20.2701,,S
-891,0,2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,26.65,0,1,250647,33.507,,S
-836,0,3,"Silvey, Mrs. William Baird (Alice Munger)",male,34.73,0,0,2697,22.5121,,S
-891,0,1,"Ward, Miss. Anna",male,,1,0,347054,7.5815,,S
-597,1,3,"Perreault, Miss. Anne",female,37.84,1,0,336439,46.8068,,S
-613,0,2,"Bourke, Mr. John",female,27.36,1,0,113786,274.8438,G6,S
-888,1,3,"Herman, Miss. Alice",female,23.02,0,0,C.A. 31921,266.2603,,C
-889,1,3,"Bourke, Mrs. John (Catherine)",female,13.26,0,0,113510,51.0191,B78,S
-474,1,3,"Coelho, Mr. Domingos Fernandeo",male,27.12,1,0,A/4. 39886,82.6818,,S
-732,0,3,"Jussila, Miss. Katriina",female,66.09,2,0,349257,26.6327,D17,
-239,0,1,"Goodwin, Master. William Frederick",male,32.08,0,0,17474,58.8207,,C
-601,0,3,"Lemore, Mrs. (Amelia Milley)",male,28.92,0,0,W./C. 6608,256.2228,D21,S
-162,1,1,"Denkoff, Mr. Mitto",male,1.57,1,0,347062,12.6718,C118,C
-773,1,3,"Lahoud, Mr. Sarkis",male,,0,0,113781,14.0185,,S
-260,1,1,"Ohman, Miss. Velin",female,24.23,1,0,19928,19.821,D28,C
-722,0,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",male,55.19,3,0,11767,12.2742,B5,S
-796,1,3,"Hickman, Mr. Leonard Mark",female,,4,0,PC 17760,37.6176,,S
-146,0,1,"Maisner, Mr. Simon",female,72.47,1,0,PC 17483,31.2609,D11,Q
-308,0,2,"Clifford, Mr. George Quincy",female,25.29,0,0,250646,11.7631,,S
-682,1,3,"Gilnagh, Miss. Katherine ""Katie""",male,,5,0,234818,11.6349,,C
-404,0,3,"Keane, Mr. Andrew ""Andy""",female,36.58,1,0,365222,6.3941,B49,C
-722,0,3,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,23.39,0,0,3101295,16.8615,,S
-278,0,1,"Horgan, Mr. John",male,27.99,5,0,C.A. 34651,26.4057,,S
-293,1,2,"Sloper, Mr. William Thompson",male,46.38,0,0,PC 17756,5.1685,D36,S
-865,0,3,"Jansson, Mr. Carl Olof",female,,1,0,PC 17758,12.2718,,
-228,1,3,"Doharr, Mr. Tannous",male,,0,0,315088,43.0818,F4,C
-783,1,2,"Ridsdale, Miss. Lucy",male,65.5,0,0,382652,76.3116,,S
-838,0,2,"Masselmani, Mrs. Fatima",female,21.15,0,0,C.A. 2315,93.2431,D36,S
-620,1,2,"Meyer, Mr. August",female,32.21,0,0,371110,57.9891,,C
-806,0,3,"Williams-Lambert, Mr. Fletcher Fellows",female,29.87,0,0,S.C./A.4. 23567,81.3522,,S
-553,1,3,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,74.03,0,0,C.A. 31921,66.1593,,S
-891,0,3,"Boulos, Mr. Hanna",male,27.02,0,0,248747,7.405,,S
-891,1,3,"Larsson, Mr. Bengt Edvin",female,53.68,0,0,SC/Paris 2163,79.4373,C83,Q
-370,0,2,"Maenpaa, Mr. Matti Alexanteri",male,51.18,0,1,CA. 2343,62.2022,,S
-470,1,3,"Connaghton, Mr. Michael",male,26.65,0,0,7598,7.4913,B51 B53 B55,S
-881,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",male,65.37,1,0,4138,23.2109,,S
-658,1,2,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",male,26.1,0,0,3460,32.501,E49,C
-455,1,3,"Endres, Miss. Caroline Louise",female,65.41,0,0,A/5 21173,30.3509,B96 B98,S
-145,0,2,"Chibnall, Mrs. (Edith Martha Bowerman)",male,31.83,0,2,11767,71.4406,,C
-87,1,3,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,29.48,1,2,113786,82.877,,C
-674,1,3,"Hakkarainen, Mr. Pekka Pietari",male,25.71,0,0,PC 17608,281.2269,,S
-511,1,2,"Corn, Mr. Harry",male,,1,0,CA 2144,26.2169,C125,S
-842,0,3,"Trout, Mrs. William H (Jessie L)",female,29.73,0,0,111369,78.6803,,C
-839,0,3,"Hickman, Mr. Leonard Mark",female,,0,0,370365,8.7805,,S
-570,1,3,"Nicola-Yarred, Master. Elias",male,19.77,1,0,349234,85.2347,,S
-658,0,2,"Klaber, Mr. Herman",male,32.97,1,2,C.A. 33112,15.6799,,S
-493,0,2,"Holm, Mr. John Fredrik Alexander",male,80.0,0,0,330909,66.8416,,Q
-629,0,3,"Tomlin, Mr. Ernest Portage",male,45.36,1,1,14312,66.5466,,Q
-891,1,3,"Silven, Miss. Lyyli Karoliina",male,,4,2,349240,77.8399,,S
-407,1,3,"Brown, Miss. Amelia ""Mildred""",female,72.33,5,0,PC 17608,91.0066,,C
-436,1,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,23.43,1,0,S.C./PARIS 2079,31.3543,E101,C
-891,0,2,"Fahlstrom, Mr. Arne Jonas",female,31.44,0,0,PP 9549,82.367,,Q
-205,0,2,"Lam, Mr. Len",female,25.54,0,0,248723,31.3624,E49,Q
-223,0,3,"Mullens, Miss. Katherine ""Katie""",female,31.02,0,2,113807,26.2406,B28,C
-724,1,2,"Coutts, Master. William Loch ""William""",female,28.69,0,1,113572,8.1932,D15,C
-860,0,1,"Nasser, Mrs. Nicholas (Adele Achem)",female,28.83,4,0,7534,29.0741,,S
-111,1,2,"Leinonen, Mr. Antti Gustaf",female,25.91,0,0,382652,7.8183,,C
-884,0,3,"Olsen, Mr. Henry Margido",male,37.58,0,2,4133,104.5481,,S
-131,0,3,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,26.98,4,0,336439,16.9737,D9,S
-761,1,3,"Allison, Master. Hudson Trevor",male,33.44,0,0,2651,15.7425,,C
-755,1,2,"Beavan, Mr. William Thomas",male,32.4,0,0,349213,24.0166,,S
-190,1,3,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",male,67.09,1,0,36973,26.8583,,S
-612,0,2,"Cavendish, Mr. Tyrell William",male,,0,0,211536,13.1124,,S
-169,1,2,"Berriman, Mr. William John",male,7.24,0,0,A/5 3540,7.255,,S
-386,1,3,"Dean, Mr. Bertram Frank",female,30.51,0,2,244252,21.842,A34,S
-359,0,2,"Gallagher, Mr. Martin",female,24.64,0,0,36864,13.2926,,S
-748,1,3,"Bryhl, Mr. Kurt Arnold Gottfrid",female,30.51,1,0,2627,9.7865,,C
-188,1,1,"Maenpaa, Mr. Matti Alexanteri",female,,0,0,14313,77.0614,,S
-455,1,1,"Padro y Manent, Mr. Julian",male,15.36,0,1,349254,210.9954,C85,C
-811,1,2,"Newsom, Miss. Helen Monypeny",male,28.66,1,0,243880,43.6281,,C
-709,0,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",male,33.3,0,0,349909,168.6478,,C
-891,0,3,"Gallagher, Mr. Martin",male,31.19,1,0,36973,12.7621,,C
-789,0,3,"Connaghton, Mr. Michael",male,,0,1,29106,65.0514,B41,C
-126,1,3,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",male,,0,2,2926,13.4918,,S
-557,0,2,"Odahl, Mr. Nils Martin",male,29.53,5,0,SOTON/OQ 392089,86.885,,S
-812,0,3,"Goldsmith, Mr. Frank John",male,23.68,0,1,13502,181.9506,,S
-780,1,1,"Rood, Mr. Hugh Roscoe",male,,0,1,PP 9549,8.5406,,S
-891,1,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,32.45,0,0,349222,8.0445,,S
-576,1,3,"McMahon, Mr. Martin",female,44.79,0,0,312991,45.7976,E12,S
-845,0,3,"Daniel, Mr. Robert Williams",female,23.4,1,2,7534,9.234,,Q
-177,1,1,"Svensson, Mr. Olof",male,30.46,0,1,244252,83.1406,,S
-759,0,3,"McKane, Mr. Peter David",female,23.65,0,0,226593,15.2474,,S
-240,1,3,"O'Brien, Mr. Thomas",female,28.95,0,0,113043,28.8599,D45,S
-770,1,3,"Ilett, Miss. Bertha",male,30.56,0,2,19972,9.8655,,C
-684,0,2,"Adams, Mr. John",male,79.55,0,0,PC 17572,28.3015,,S
-620,0,3,"Adams, Mr. John",female,25.98,0,3,PC 17761,253.9759,,C
-891,1,1,"Turja, Miss. Anna Sofia",male,78.46,0,0,PC 17569,147.7276,,C
-627,1,2,"Allison, Miss. Helen Loraine",female,29.16,1,2,2620,41.5994,B57 B59 B63 B66,S
-891,1,3,"Eklund, Mr. Hans Linus",male,29.59,0,0,382652,54.6494,B28,C
-143,1,3,"Cribb, Mr. John Hatfield",male,,0,0,248731,12.8505,C23 C25 C27,S
-397,1,2,"McKane, Mr. Peter David",female,22.74,1,0,349240,71.9068,D21,Q
-265,1,3,"Boulos, Mr. Hanna",male,63.25,1,0,PC 17572,6.5598,A20,S
-733,1,3,"Goldschmidt, Mr. George B",female,,0,0,W./C. 6608,17.7073,,C
-856,0,2,"Gronnestad, Mr. Daniel Danielsen",female,31.5,0,0,P/PP 3381,15.9487,,S
-738,0,1,"Backstrom, Mr. Karl Alfred",female,30.56,0,2,SOTON/O.Q. 3101310,42.4738,B35,C
-845,1,2,"Mionoff, Mr. Stoytcho",female,25.88,0,0,113776,18.5927,,S
-391,0,2,"Endres, Miss. Caroline Louise",female,13.15,1,0,11767,15.5732,F G73,
-729,0,3,"Sinkkonen, Miss. Anna",female,44.38,0,0,36928,5.258,,Q
-891,0,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",male,69.05,0,0,4133,76.8821,,S
-525,1,1,"Lobb, Mr. William Arthur",female,30.4,0,0,323592,237.3668,,S
-797,1,1,"Niskanen, Mr. Juha",female,26.8,0,0,335677,61.9172,,C
-859,1,3,"Goldsmith, Mr. Frank John",male,31.96,0,0,3101298,23.0207,B37,S
-227,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",male,27.01,0,0,370370,14.7879,C99,C
-635,1,1,"Barber, Miss. Ellen ""Nellie""",female,28.15,0,0,111320,34.816,E36,S
-655,0,2,"Harper, Mr. Henry Sleeper",female,63.73,3,1,SOTON/O.Q. 3101307,167.9293,B28,S
-220,0,3,"Parkes, Mr. Francis ""Frank""",male,27.52,0,0,PC 17569,8.7213,,S
-515,1,3,"Ringhini, Mr. Sante",male,,1,0,PC 17611,88.2521,,S
-891,0,3,"White, Mr. Percival Wayland",male,30.36,1,0,382652,35.5401,,C
-804,0,3,"Pears, Mr. Thomas Clinton",female,39.42,1,0,PC 17608,30.9768,A23,S
-831,1,2,"Kink, Mr. Vincenz",male,46.11,0,0,111426,57.8861,,Q
-891,1,2,"Ohman, Miss. Velin",female,64.35,0,0,35273,35.5438,,S
-221,1,2,"Hirvonen, Miss. Hildur E",female,65.52,0,0,370129,8.6944,D36,Q
-612,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",male,70.94,1,0,364516,27.0177,,C
-891,0,3,"Gee, Mr. Arthur H",female,36.02,8,0,2625,39.3662,F38,S
-546,0,1,"Salonen, Mr. Johan Werner",female,38.11,1,0,349228,9.6541,A26,S
-407,1,3,"Kink, Mr. Vincenz",female,55.27,0,0,347466,6.7893,,C
-781,0,3,"Heikkinen, Miss. Laina",female,28.83,0,2,17453,101.4553,B101,Q
-863,1,3,"Montvila, Rev. Juozas",male,30.52,1,0,230136,65.1544,,S
-494,0,3,"O'Sullivan, Miss. Bridget Mary",male,,0,0,113505,19.6461,,S
-734,1,3,"Petterson, Mr. Johan Emil",male,28.11,0,0,372622,8.8916,,S
-776,1,3,"Peduzzi, Mr. Joseph",female,63.8,0,0,65306,442.299,D35,C
-136,0,3,"Kantor, Mr. Sinai",female,56.89,0,0,374887,9.9786,E44,C
-550,1,2,"Simmons, Mr. John",male,21.63,0,1,349203,28.7369,F33,C
-719,1,2,"Honkanen, Miss. Eliina",female,31.62,0,0,2667,22.0723,,C
-286,1,3,"Frolicher-Stehli, Mr. Maxmillian",female,,0,0,347063,34.1924,E67,S
-856,0,2,"Risien, Mr. Samuel Beard",male,32.8,3,0,111320,149.6818,,Q
-115,0,3,"Cherry, Miss. Gladys",female,54.84,4,0,349233,79.2286,B77,S
-324,0,3,"Rugg, Miss. Emily",female,23.99,1,0,14313,82.706,,S
-809,1,1,"Gee, Mr. Arthur H",male,30.13,3,0,26360,18.9818,,Q
-888,0,3,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",female,23.39,0,0,248731,12.8887,,S
-35,1,1,"Ford, Mr. William Neal",male,24.12,0,0,349231,236.3165,E8,
-789,0,3,"Carter, Miss. Lucile Polk",female,,5,0,347742,90.1813,D35,Q
-282,0,2,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,30.72,1,0,PC 17582,69.2045,,S
-543,1,1,"McCarthy, Mr. Timothy J",female,,1,0,C.A. 24579,12.6446,E50,S
-123,0,3,"Caram, Mrs. Joseph (Maria Elias)",female,24.57,0,0,26360,12.16,,Q
-891,1,3,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,0,SOTON/OQ 392086,12.023,,S
-606,0,2,"Toufik, Mr. Nakli",male,24.37,0,0,16966,75.2495,,C
-839,0,1,"Barbara, Mrs. (Catherine David)",female,61.65,0,0,349257,197.3027,A5,C
-872,1,3,"Ringhini, Mr. Sante",male,29.7,1,0,347088,93.0957,C104,C
-182,0,3,"Ryan, Mr. Patrick",male,41.64,1,0,113505,52.6708,,C
-891,1,3,"Porter, Mr. Walter Chamberlain",male,27.05,0,2,F.C.C. 13529,27.1755,,S
-317,1,3,"Smith, Miss. Marion Elsie",female,30.2,0,1,C.A. 24579,81.7874,,S
-891,0,1,"Bengtsson, Mr. John Viktor",male,28.8,0,0,PC 17608,14.2295,,S
-694,0,2,"Serepeca, Miss. Augusta",male,30.67,4,0,17453,43.6077,,S
-800,0,1,"Hocking, Mrs. Elizabeth (Eliza Needs)",male,,1,0,374910,35.5763,,C
-847,0,3,"Boulos, Mr. Hanna",male,28.88,4,0,17421,13.4657,A7,S
-601,1,2,"Drazenoic, Mr. Jozef",male,43.64,0,0,365226,8.771,,C
-884,0,1,"Culumovic, Mr. Jeso",female,26.19,2,0,349251,10.915,C110,S
-324,1,1,"Watson, Mr. Ennis Hastings",female,,1,1,PP 4348,148.5586,D48,S
-692,1,2,"Mionoff, Mr. Stoytcho",female,27.27,0,0,PC 17485,74.7987,B35,Q
-197,1,3,"Moubarek, Master. Gerios",female,62.87,0,2,373450,29.6438,,C
-797,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,21.2,0,4,367230,23.7371,,S
-138,0,3,"Parr, Mr. William Henry Marsh",female,,0,0,C.A./SOTON 34068,18.1971,,S
-396,0,3,"Fry, Mr. Richard",male,30.31,0,0,19996,72.2761,,S
-822,0,2,"Robins, Mrs. Alexander A (Grace Charity Laury)",male,47.17,0,0,7552,11.6544,,C
-747,0,3,"Allum, Mr. Owen George",male,30.63,4,0,29108,9.3526,A6,Q
-549,0,3,"Pears, Mrs. Thomas (Edith Wearne)",female,24.6,0,2,SC/AH 3085,11.639,,S
-891,1,3,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",male,26.51,1,0,113788,12.1276,,C
-109,0,3,"Barkworth, Mr. Algernon Henry Wilson",female,43.53,1,1,C.A. 33112,5.9795,B77,S
-727,0,3,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,26.56,0,0,PC 17476,14.428,,C
-717,1,1,"Moubarek, Master. Gerios",male,17.9,4,0,CA. 2343,138.0199,,C
-597,1,3,"Mack, Mrs. (Mary)",male,,0,1,17421,12.4183,,S
-188,0,3,"Turkula, Mrs. (Hedwig)",female,21.9,1,0,315088,10.298,C123,S
-781,0,2,"Carter, Mr. William Ernest",female,28.36,1,2,324669,61.1581,,S
-589,1,3,"Jensen, Mr. Hans Peder",male,66.22,0,0,364511,8.2404,,S
-323,0,2,"Icard, Miss. Amelie",male,28.8,0,0,1601,106.4363,,S
-891,1,2,"Chaffee, Mr. Herbert Fuller",female,19.4,1,3,113043,169.4013,,S
-748,0,3,"Aubart, Mme. Leontine Pauline",male,73.71,0,0,371110,33.5563,,C
-711,1,3,"Hippach, Miss. Jean Gertrude",male,30.41,1,0,113028,9.1868,,C
-390,1,2,"Cacic, Miss. Marija",male,,0,0,PC 17605,7.8983,,S
-807,0,3,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,32.1,2,0,PC 17608,63.7259,C85,S
-772,0,1,"Barber, Miss. Ellen ""Nellie""",female,30.07,0,0,17421,10.3845,C128,S
-358,0,3,"Mitkoff, Mr. Mito",female,21.96,0,2,2624,79.3488,A31,Q
-786,1,2,"Rice, Master. Eric",male,,0,1,A/5. 3336,33.4334,,S
-845,0,2,"Trout, Mrs. William H (Jessie L)",male,30.96,0,0,S.O.C. 14879,150.6126,,S
-793,0,3,"Keefe, Mr. Arthur",female,52.43,0,1,336439,103.1019,,S
-280,1,3,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,28.07,1,0,113051,10.8055,,S
-292,0,3,"Giglio, Mr. Victor",male,72.59,0,0,111361,9.2835,,C
-851,1,3,"Kantor, Mrs. Sinai (Miriam Sternin)",female,63.36,0,0,110413,69.6642,,S
-429,0,3,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,30.43,5,1,17453,76.2621,,Q
-891,1,3,"Hakkarainen, Mr. Pekka Pietari",male,,1,0,2623,92.6543,,S
-554,0,3,"Hart, Mr. Benjamin",male,30.36,0,0,SOTON/O.Q. 3101306,38.1591,B49,S
-822,1,3,"Lovell, Mr. John Hall (""Henry"")",male,32.16,3,0,P/PP 3381,8.9815,,S
-891,1,3,"Ryerson, Miss. Emily Borie",female,26.68,0,0,11767,10.0282,,S
-891,1,3,"Sage, Mr. Frederick",male,,1,0,SC/Paris 2163,101.8882,,C
-844,1,1,"Ford, Mr. William Neal",male,27.96,1,0,113760,5.4909,B20,C
-846,0,1,"Carter, Rev. Ernest Courtenay",female,30.18,1,0,345773,15.8035,,C
-259,1,3,"Ponesell, Mr. Martin",male,33.09,0,0,113803,67.0465,,C
-195,1,3,"Mallet, Mr. Albert",male,,0,0,392091,33.5438,D56,C
-704,0,2,"Hoyt, Mr. Frederick Maxfield",female,32.16,0,0,345764,7.0899,,S
-515,1,3,"Hippach, Miss. Jean Gertrude",male,46.44,0,0,7267,16.4866,,Q
-92,0,3,"Turpin, Mr. William John Robert",female,38.44,0,0,36973,17.0261,B20,S
-184,1,1,"Zabour, Miss. Thamine",male,30.09,1,0,113784,25.9939,E58,S
-386,0,3,"Laleff, Mr. Kristo",female,23.92,4,0,345773,25.2646,,C
-831,1,2,"Ponesell, Mr. Martin",female,27.34,1,0,330980,9.3069,,C
-891,0,3,"Olsen, Mr. Henry Margido",female,15.98,1,0,110152,65.2249,,S
-804,0,3,"Navratil, Mr. Michel (""Louis M Hoffman"")",female,31.6,0,0,19950,247.932,,Q
-168,0,3,"Carter, Mrs. William Ernest (Lucile Polk)",male,58.49,0,0,STON/O2. 3101279,5.4325,E68,Q
-854,0,1,"Hedman, Mr. Oskar Arvid",female,31.5,0,0,350035,7.6909,C22 C26,Q
-417,0,2,"Thomas, Master. Assad Alexander",female,42.1,1,0,11751,35.4629,,C
-749,0,2,"Badt, Mr. Mohamed",male,32.28,0,0,S.O.C. 14879,18.511,C82,S
-300,0,1,"Rogers, Mr. William John",female,,0,0,349228,42.0507,B57 B59 B63 B66,S
-891,1,3,"Cunningham, Mr. Alfred Fleming",male,27.96,0,0,SC/PARIS 2133,15.3251,,C
-440,1,3,"Sage, Mr. Douglas Bullen",female,41.86,0,2,17453,70.1439,,C
-762,0,3,"Salkjelsvik, Miss. Anna Kristine",female,31.96,1,0,250655,6.0302,,Q
-701,1,1,"O'Leary, Miss. Hanora ""Norah""",female,21.19,2,0,349215,199.5352,E24,S
-695,0,2,"Spencer, Mrs. William Augustus (Marie Eugenie)",male,30.73,0,0,PP 4348,8.7957,F4,C
-772,0,1,"Moran, Mr. Daniel J",male,31.12,1,0,19996,8.649,E77,S
-343,1,2,"Lines, Miss. Mary Conover",female,67.11,1,2,SOTON/OQ 392089,54.8509,,C
-891,0,2,"Kink, Mr. Vincenz",female,70.82,4,0,19952,42.5517,,Q
-685,1,3,"Masselmani, Mrs. Fatima",female,57.42,1,0,A/5 3902,26.0419,C148,S
-889,0,3,"Skoog, Miss. Margit Elizabeth",male,24.66,0,0,330909,60.2114,,S
-802,0,3,"Lang, Mr. Fang",male,23.72,1,0,347054,33.0333,,S
-618,0,3,"Moen, Mr. Sigurd Hansen",male,74.58,0,0,315037,9.073,,C
-355,0,1,"Tomlin, Mr. Ernest Portage",female,33.52,0,1,PC 17572,16.7564,,S
-844,0,3,"Greenfield, Mr. William Bertram",female,15.27,0,0,13502,89.1038,,S
-350,1,3,"Farthing, Mr. John",female,30.22,1,0,STON/O 2. 3101275,99.3713,,S
-768,0,3,"Naidenoff, Mr. Penko",female,,0,0,250648,16.8802,,S
-760,1,2,"Pengelly, Mr. Frederick William",female,31.72,1,0,349213,74.4885,D49,S
-159,1,3,"Carlsson, Mr. Frans Olof",male,50.85,0,0,36973,72.3736,,C
-891,0,3,"Olsson, Mr. Nils Johan Goransson",female,26.2,1,2,17453,31.3862,F G73,S
-34,0,3,"Daly, Mr. Eugene Patrick",male,,0,0,350060,114.9082,,S
-837,1,3,"Sage, Master. Thomas Henry",male,32.96,0,0,349236,39.9329,B102,C
-891,1,3,"Betros, Mr. Tannous",female,29.61,0,4,342826,14.0874,,C
-891,0,2,"Lewy, Mr. Ervin G",female,44.46,2,0,PC 17473,28.9261,,S
-430,0,3,"Balkic, Mr. Cerin",male,27.81,1,0,A/5 21171,479.4026,,Q
-891,0,2,"Doharr, Mr. Tannous",female,25.23,0,0,364516,41.1423,,S
-403,1,2,"Augustsson, Mr. Albert",male,31.28,0,0,STON/O 2. 3101294,51.5591,,C
-257,0,3,"Slemen, Mr. Richard James",female,30.72,0,0,W./C. 14258,74.2165,D9,S
-153,0,1,"Crosby, Capt. Edward Gifford",male,70.11,0,2,19996,40.3044,C45,S
-136,0,3,"Fischer, Mr. Eberhard Thelander",male,8.64,0,0,367226,39.0224,,Q
-462,1,3,"Meanwell, Miss. (Marion Ogden)",female,29.51,0,2,367230,91.5091,,C
-838,1,2,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",male,,1,0,2626,212.5176,,S
-884,1,3,"Plotcharsky, Mr. Vasil",female,,1,0,312991,12.7845,,S
-891,0,3,"Lindell, Mr. Edvard Bengtsson",female,34.42,0,1,A4. 54510,14.5153,,C
-883,0,2,"Carr, Miss. Helen ""Ellen""",female,19.06,0,0,345773,50.7977,,Q
-891,0,3,"Skoog, Master. Karl Thorsten",male,31.33,4,1,239853,12.2971,,S
-756,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",male,33.13,0,0,347080,0.0,,S
-721,0,3,"Johnson, Master. Harold Theodor",female,25.01,3,0,29106,92.0003,,S
-677,1,3,"Stone, Mrs. George Nelson (Martha Evelyn)",male,32.93,2,0,SC 1748,10.7075,,Q
-851,0,1,"Andersson, Miss. Erna Alexandra",female,26.86,0,0,16966,17.8898,,S
-770,1,1,"Hoyt, Mr. William Fisher",female,,0,0,11967,79.8919,,S
-312,1,2,"Zabour, Miss. Thamine",male,33.51,0,0,PC 17611,67.6782,,C
-178,1,1,"Dean, Mr. Bertram Frank",male,57.45,0,0,349909,11.1102,D48,C
-882,0,3,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",male,,0,0,3474,9.8845,,S
-698,0,3,"Harper, Mr. Henry Sleeper",female,30.85,0,0,1601,16.9988,,S
-891,1,3,"Sandstrom, Miss. Marguerite Rut",male,66.8,0,0,2669,10.6744,,C
-110,0,3,"Kassem, Mr. Fared",female,31.18,0,0,PC 17572,78.5841,F G63,
-14,1,3,"Turja, Miss. Anna Sofia",male,63.02,0,0,PC 17760,92.3843,,Q
-804,0,3,"Naidenoff, Mr. Penko",male,26.8,1,0,363291,24.0766,F33,S
-135,0,3,"Brocklebank, Mr. William Alfred",female,31.35,1,0,113796,78.2584,,S
-754,0,1,"Davies, Master. John Morgan Jr",male,29.77,0,0,349233,91.6195,,Q
-281,0,3,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,26.78,0,0,112379,9.1385,,C
-805,1,2,"Duran y More, Miss. Asuncion",female,31.35,1,0,349213,13.6628,,S
-854,1,1,"Asplund, Master. Edvin Rojj Felix",female,37.58,3,0,11751,196.4874,C118,S
-262,0,3,"Bystrom, Mrs. (Karolina)",male,25.84,1,0,A/5 3902,7.4759,,S
-802,1,1,"Drazenoic, Mr. Jozef",male,49.63,1,2,315086,54.2692,F G73,S
-294,1,3,"Padro y Manent, Mr. Julian",male,21.02,3,1,19877,24.1062,,C
-789,1,2,"Giles, Mr. Frederick Edward",male,36.07,3,0,SC 1748,10.3202,,S
-587,1,2,"Leader, Dr. Alice (Farnham)",female,32.18,0,0,248723,34.2216,,C
-148,0,3,"Lobb, Mr. William Arthur",female,30.05,0,2,237798,12.2205,,S
-891,0,3,"Bystrom, Mrs. (Karolina)",female,30.21,0,0,SO/C 14885,14.2969,,Q
-170,0,3,"Taussig, Miss. Ruth",male,23.04,3,0,315098,109.8144,D36,S
-769,0,2,"O'Brien, Mr. Thomas",female,32.42,0,0,C.A. 33112,32.4987,C125,C
-299,1,2,"Nosworthy, Mr. Richard Cater",male,33.04,0,0,113767,28.2187,,C
-699,0,1,"Woolner, Mr. Hugh",female,29.21,0,0,F.C.C. 13531,78.945,,S
-167,1,1,"McGowan, Miss. Anna ""Annie""",female,66.27,1,2,13568,14.0829,,C
-718,1,3,"Horgan, Mr. John",female,,0,0,113050,16.975,,S
-746,0,1,"Hansen, Mr. Henry Damsgaard",female,27.4,0,0,349243,28.4383,C95,S
-720,0,2,"Kassem, Mr. Fared",male,27.73,3,0,347063,31.6938,D20,S
-782,0,2,"Thayer, Mr. John Borland Jr",male,28.48,0,0,S.O./P.P. 3,106.9587,,C
-357,1,3,"Woolner, Mr. Hugh",male,28.58,0,1,SOTON/OQ 3101317,77.3692,B28,C
-769,0,3,"Nilsson, Miss. Helmina Josefina",male,32.34,0,0,347082,70.1313,,Q
-750,0,1,"Davison, Mrs. Thomas Henry (Mary E Finck)",male,24.68,1,0,330932,14.3711,,
-537,0,3,"Laitinen, Miss. Kristina Sofia",male,28.16,0,2,350060,28.575,D49,Q
-887,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,75.73,0,0,13567,70.5072,,S
-296,1,1,"Backstrom, Mr. Karl Alfred",male,49.73,0,0,364499,65.3124,,Q
-576,0,1,"Wick, Miss. Mary Natalie",female,34.41,1,0,7553,83.0343,B58 B60,C
-589,1,2,"Garfirth, Mr. John",male,32.16,1,0,SOTON/O.Q. 3101312,2.8447,,C
-616,0,2,"Hickman, Mr. Lewis",male,58.86,0,2,27267,7.5897,C110,S
-891,1,3,"Moussa, Mrs. (Mantoura Boulos)",male,30.63,0,0,347062,12.1603,,C
-252,0,1,"Colley, Mr. Edward Pomeroy",female,,0,0,S.O./P.P. 3,81.125,D36,C
-891,0,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,30.14,0,0,345778,29.7982,,S
-313,1,3,"Futrelle, Mr. Jacques Heath",male,30.41,1,0,237789,5.7898,C82,C
-767,0,1,"Jermyn, Miss. Annie",male,28.51,1,0,347082,71.2294,,Q
-643,0,2,"Beckwith, Mr. Richard Leonard",male,27.71,1,0,349248,10.5746,,S
-806,1,3,"Balkic, Mr. Cerin",male,30.82,2,0,230136,26.493,,C
-891,1,3,"Davies, Mr. Charles Henry",female,28.76,0,0,113781,86.8698,,C
-320,0,3,"Funk, Miss. Annie Clemmer",male,29.58,0,0,113776,16.4894,,S
-474,1,3,"Calderhead, Mr. Edward Pennington",female,29.3,5,0,343120,4.7258,,Q
-243,0,3,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",female,71.01,0,0,113786,10.6969,,C
-784,0,2,"Moore, Mr. Leonard Charles",male,,0,0,231919,17.629,F38,S
-610,0,2,"Nye, Mrs. (Elizabeth Ramell)",female,22.16,0,0,349909,77.5933,G6,Q
-134,1,3,"Slocovski, Mr. Selman Francis",male,58.47,0,0,226593,13.0387,,C
-891,1,3,"Ringhini, Mr. Sante",female,33.16,0,0,S.O./P.P. 3,8.874,,C
-837,1,3,"Fox, Mr. Stanley Hubert",male,59.6,0,0,PC 17582,39.8868,,S
-827,1,3,"Stone, Mrs. George Nelson (Martha Evelyn)",female,30.26,1,0,113783,72.8029,,S
-288,0,3,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,29.77,2,2,28206,19.8857,D11,S
-304,0,3,"Barbara, Mrs. (Catherine David)",male,32.47,1,2,113776,54.7922,,S
-651,0,3,"Ball, Mrs. (Ada E Hall)",male,32.6,1,0,36967,223.8095,,Q
-439,0,1,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,13.69,0,0,CA. 2343,7.28,B41,Q
-209,0,3,"Honkanen, Miss. Eliina",male,48.84,0,0,237798,132.6695,,C
-501,0,3,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",male,22.9,0,0,PC 17758,147.1365,F2,S
-891,1,3,"Haas, Miss. Aloisia",female,,0,0,S.O./P.P. 3,13.9177,,C
-825,0,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,,2,0,PC 17605,14.7962,D45,
-775,1,3,"White, Mr. Richard Frasar",male,29.51,1,0,13502,9.7025,,C
-190,1,1,"Olsen, Mr. Henry Margido",male,,0,0,C.A. 31921,16.999,,S
-805,0,3,"Vande Velde, Mr. Johannes Joseph",female,24.2,0,0,330980,89.8601,B41,S
-891,0,3,"Drazenoic, Mr. Jozef",male,21.49,0,0,250648,11.7102,,S
-295,1,2,"Brewe, Dr. Arthur Jackson",male,32.22,0,0,2620,4.9627,,S
-219,0,3,"Cunningham, Mr. Alfred Fleming",female,21.42,1,0,S.O./P.P. 3,17.9616,,C
-542,0,3,"Chip, Mr. Chang",male,,1,0,17464,79.2092,,S
-798,0,2,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,23.32,4,0,370372,57.3093,,S
-654,1,3,"Bazzani, Miss. Albina",female,33.74,0,0,SOTON/OQ 392082,3.4214,,C
-596,0,1,"McGowan, Miss. Anna ""Annie""",female,26.71,0,0,19943,94.392,C93,C
-203,0,2,"Navratil, Master. Edmond Roger",female,29.8,0,0,26360,11.6225,F2,S
-891,0,3,"Ryerson, Miss. Susan Parker ""Suzette""",female,28.51,0,0,PC 17757,14.4071,,S
-129,0,2,"Hanna, Mr. Mansour",male,34.06,0,0,315098,3.6226,,S
-305,0,3,"Haas, Miss. Aloisia",male,26.65,1,0,113501,48.1913,,S
-783,1,3,"Olsen, Mr. Henry Margido",male,,0,0,371110,114.9823,,S
-857,0,3,"Harris, Mr. Walter",female,30.25,0,0,CA. 2343,11.2339,F2,
-262,1,3,"Peuchen, Major. Arthur Godfrey",male,80.0,0,0,29103,136.5642,,Q
-891,1,3,"Frolicher, Miss. Hedwig Margaritha",male,,0,0,PC 17755,76.5836,,S
-753,0,3,"Gee, Mr. Arthur H",male,30.41,0,0,7546,54.792,,C
-820,1,3,"Dick, Mrs. Albert Adrian (Vera Gillespie)",male,31.53,1,0,SOTON/OQ 3101317,73.0416,,Q
-666,1,3,"Cleaver, Miss. Alice",male,20.58,0,0,65306,8.5966,E12,S
-243,0,3,"Hewlett, Mrs. (Mary D Kingcome) ",female,43.12,1,0,382652,129.8604,,S
-320,1,3,"Fortune, Mr. Charles Alexander",female,29.64,0,2,382652,70.0733,,C
-818,1,1,"Klaber, Mr. Herman",female,34.39,0,0,243847,100.8468,,Q
-163,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,31.52,5,0,PC 17757,62.1337,C23 C25 C27,Q
-287,1,3,"Olsen, Mr. Karl Siegwart Andreas",male,72.11,0,0,382651,10.5441,,S
-607,0,1,"Goodwin, Master. William Frederick",male,,1,0,36864,79.259,,S
-494,1,3,"Adams, Mr. John",female,54.16,1,1,C.A. 24579,158.1136,C118,
-885,0,2,"Marechal, Mr. Pierre",male,,5,0,367230,112.4211,,S
-706,0,3,"Aubart, Mme. Leontine Pauline",male,54.39,0,0,PP 9549,113.1796,A5,S
-265,0,3,"Endres, Miss. Caroline Louise",female,21.89,0,0,C.A. 31921,17.5825,B86,S
-735,1,3,"Thorneycroft, Mr. Percival",male,29.65,0,0,113509,10.8108,,C
-857,0,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,69.53,0,0,29108,13.4015,,C
-839,1,3,"Chibnall, Mrs. (Edith Martha Bowerman)",male,15.93,1,0,112053,86.6989,C78,C
-882,0,3,"Sharp, Mr. Percival James R",male,,1,0,STON/O2. 3101279,93.9859,,S
-735,0,2,"Goodwin, Miss. Lillian Amy",female,22.39,0,0,315088,118.7135,,S
-246,0,3,"Reeves, Mr. David",female,12.77,0,2,2223,40.6359,E40,S
-536,0,1,"Healy, Miss. Hanora ""Nora""",male,56.45,1,0,13213,19.2487,B41,C
-891,0,1,"Henry, Miss. Delia",male,,0,2,28228,125.2078,E17,S
-737,1,2,"Johnson, Miss. Eleanor Ileen",female,25.34,0,0,2669,11.5092,,S
-582,0,1,"Niskanen, Mr. Juha",female,21.19,0,0,110413,15.7644,,S
-125,1,3,"Adahl, Mr. Mauritz Nils Martin",female,1.76,1,0,383121,13.4311,B22,S
-590,0,2,"Bradley, Mr. George (""George Arthur Brayton"")",female,,0,0,113776,57.3557,E34,S
-822,0,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,45.22,1,0,SOTON/OQ 392086,20.6194,D,S
-670,0,3,"Fox, Mr. Stanley Hubert",male,30.53,0,0,2223,16.7888,D33,C
-891,1,3,"Turpin, Mr. William John Robert",female,29.16,0,1,A./5. 2152,8.9131,,Q
-192,0,3,"Jonkoff, Mr. Lalio",female,48.05,0,0,19947,25.7645,,S
-678,1,3,"Blank, Mr. Henry",female,26.6,0,0,243880,12.2631,D49,Q
-762,1,2,"Johnston, Miss. Catherine Helen ""Carrie""",female,19.49,0,0,SCO/W 1585,25.0469,A20,Q
-580,0,2,"Collander, Mr. Erik Gustaf",female,51.43,0,0,A/4. 20589,148.6415,,S
-314,0,3,"Duran y More, Miss. Asuncion",male,32.45,0,0,3101295,231.0198,,S
-254,0,3,"Hippach, Miss. Jean Gertrude",male,67.8,0,0,7267,96.784,,Q
-885,1,3,"Jensen, Mr. Hans Peder",male,27.19,0,0,371060,86.9649,D35,C
-856,1,2,"Hawksford, Mr. Walter James",female,31.22,0,0,345773,84.3686,E58,S
-655,0,3,"Nasser, Mr. Nicholas",female,,0,0,A/5 21171,282.8022,C50,S
-545,0,2,"Goldschmidt, Mr. George B",male,,0,2,29106,129.8428,,S
-891,1,3,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,27.06,0,0,11767,68.2697,,C
-682,1,2,"Wick, Miss. Mary Natalie",male,26.1,0,0,PC 17572,107.5695,E36,S
-78,0,3,"Daly, Mr. Peter Denis ",female,26.94,0,0,11765,11.685,,C
-816,0,1,"Arnold-Franchi, Mr. Josef",female,27.05,0,0,347464,65.629,,C
-273,0,3,"Leinonen, Mr. Antti Gustaf",female,29.51,1,0,315098,5.8052,,S
-63,1,3,"Pain, Dr. Alfred",male,34.13,0,0,239865,128.2157,B37,C
-886,1,1,"Johnson, Master. Harold Theodor",female,,1,2,C.A. 29395,13.1222,B37,Q
-859,0,3,"Cairns, Mr. Alexander",female,27.45,0,0,28213,104.9267,,S
-891,0,3,"Smith, Miss. Marion Elsie",male,28.91,1,0,16966,72.7277,,S
-218,1,3,"Rice, Mrs. William (Margaret Norton)",male,28.87,0,0,2627,54.5771,,C
-207,0,3,"Rugg, Miss. Emily",male,17.77,1,0,113806,39.5312,,S
-891,1,2,"Olsen, Mr. Henry Margido",female,31.8,0,2,113787,11.4233,,C
-120,0,3,"Sivola, Mr. Antti Wilhelm",female,26.52,0,0,349208,94.0776,,S
-124,0,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,56.81,0,0,347082,79.6121,,S
-253,0,3,"Pettersson, Miss. Ellen Natalia",female,19.34,1,0,SOTON/O.Q. 3101311,59.0196,,C
-531,0,2,"Vestrom, Miss. Hulda Amanda Adolfina",female,51.06,1,1,CA. 2343,36.506,E24,S
-95,0,2,"Douglas, Mr. Walter Donald",female,27.64,1,0,234818,66.2347,F33,Q
-891,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",male,19.23,1,0,364850,65.0529,,S
-452,0,2,"Asim, Mr. Adola",male,26.75,1,0,2626,8.7044,B28,S
-763,0,1,"Doling, Mrs. John T (Ada Julia Bone)",male,,0,1,347088,10.6852,,C
-792,0,3,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,31.56,5,0,370371,41.6139,D49,S
-279,0,3,"Gallagher, Mr. Martin",male,31.45,1,0,A/5 21172,12.8031,E17,S
-342,0,1,"Smith, Mr. Thomas",male,64.38,0,0,SC/Paris 2163,99.4148,,S
-891,1,3,"Widener, Mr. Harry Elkins",female,,0,0,3101267,29.3188,,S
-571,0,3,"Connolly, Miss. Kate",male,29.33,4,0,SOTON/O2 3101272,12.4035,C30,C
-295,0,1,"Ball, Mrs. (Ada E Hall)",male,31.25,2,0,349234,54.4712,,C
-891,0,3,"Shutes, Miss. Elizabeth W",male,58.86,1,0,A/5. 2151,9.5258,D15,S
-891,0,3,"Meanwell, Miss. (Marion Ogden)",female,31.58,0,0,363592,149.1541,,S
-89,1,2,"Nirva, Mr. Iisakki Antino Aijo",male,,0,1,237671,55.3938,C92,S
-719,0,1,"Olsson, Mr. Nils Johan Goransson",male,,0,0,347062,69.0582,,S
-827,0,2,"McCarthy, Mr. Timothy J",male,30.76,0,0,S.O./P.P. 3,62.6107,,S
-741,0,2,"Masselmani, Mrs. Fatima",female,42.46,0,0,367230,92.0546,,S
-588,1,3,"Pears, Mrs. Thomas (Edith Wearne)",female,31.71,0,0,248723,73.0869,,S
-696,0,3,"Elias, Mr. Dibo",female,70.0,0,0,24160,294.7424,,S
-891,0,2,"Kelly, Miss. Anna Katherine ""Annie Kate""",male,30.17,1,0,PC 17590,9.3467,,S
-411,0,1,"Cacic, Miss. Marija",female,,1,2,19950,4.5447,,S
-287,1,2,"Van der hoef, Mr. Wyckoff",female,32.38,1,0,19877,11.4413,,S
-555,0,3,"Behr, Mr. Karl Howell",female,24.67,1,0,12460,47.5887,F33,S
-210,0,3,"Turja, Miss. Anna Sofia",female,24.97,1,0,C.A. 34651,66.5396,,S
-841,1,3,"Hagland, Mr. Konrad Mathias Reiersen",female,31.96,0,0,4136,27.4825,,S
-891,1,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",male,,0,0,347077,9.0686,,S
-709,0,3,"Mockler, Miss. Helen Mary ""Ellie""",male,32.39,1,2,PC 17558,8.8028,,C
-48,0,1,"McMahon, Mr. Martin",male,32.7,1,0,13049,74.0535,,Q
-681,1,2,"Boulos, Mr. Hanna",male,76.81,0,0,STON/O 2. 3101294,64.0516,,Q
-891,0,3,"Burns, Miss. Elizabeth Margaret",male,28.9,0,0,SO/C 14885,16.6836,E25,S
-33,0,3,"Hart, Mr. Benjamin",female,51.43,1,0,19996,208.2235,D46,S
-891,0,1,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,38.89,0,4,382651,76.6031,C23 C25 C27,C
-638,1,3,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",male,26.08,1,0,113055,98.1288,C111,S
-619,1,3,"Lulic, Mr. Nikola",female,25.21,0,4,392096,16.3083,F G73,Q
-274,0,3,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,29.02,1,0,347082,1.391,,S
-891,1,2,"Ford, Mr. William Neal",female,54.32,0,0,112058,12.2449,,S
-864,1,3,"Murphy, Miss. Margaret Jane",female,31.95,1,0,19943,14.4703,,S
-310,0,3,"Tornquist, Mr. William Henry",male,23.27,3,0,112379,68.4068,,C
-340,1,3,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,16966,5.0498,,S
-841,0,2,"Harris, Mr. Henry Birkhardt",female,27.01,0,0,363291,512.3292,C23 C25 C27,Q
-797,1,3,"Pears, Mrs. Thomas (Edith Wearne)",female,56.03,0,0,2686,54.3622,B51 B53 B55,Q
-714,0,1,"Sivola, Mr. Antti Wilhelm",female,26.65,5,0,W./C. 6608,10.8395,E24,C
-810,0,3,"Sage, Mr. George John Jr",male,71.3,3,2,394140,22.1619,B28,C
-878,0,3,"Gheorgheff, Mr. Stanio",male,,1,0,110413,52.3846,,S
-505,1,3,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",female,30.15,0,0,374746,82.8132,,Q
-690,1,3,"Toufik, Mr. Nakli",female,66.56,0,0,2647,59.7976,,S
-748,0,3,"Collyer, Mr. Harvey",male,61.16,1,0,CA. 2343,57.9491,,S
-292,0,3,"Young, Miss. Marie Grice",male,,1,0,29750,17.6028,C78,C
-860,0,2,"Coutts, Master. William Loch ""William""",female,29.88,0,0,SC/Paris 2123,19.8725,,S
-557,0,2,"Balkic, Mr. Cerin",male,32.5,0,0,W./C. 6608,0.0,,S
-717,1,1,"Bourke, Miss. Mary",male,32.38,1,0,35273,56.4923,,S
-572,0,3,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,22.66,0,1,PC 17318,10.9096,C86,S
-142,1,3,"Jonsson, Mr. Carl",male,25.39,1,0,349244,60.26,,C
-891,1,3,"Marechal, Mr. Pierre",male,31.69,0,0,364849,2.5967,D47,C
-833,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",male,27.71,0,0,362316,11.0022,,S
-270,0,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",male,33.21,0,0,349233,10.7347,,S
-403,1,3,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",male,,0,2,2667,21.866,,S
-206,1,2,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,24.65,0,0,STON/O 2. 3101294,95.0841,,C
-598,1,3,"Murdlin, Mr. Joseph",male,9.68,1,0,19996,9.3344,B5,C
-830,0,3,"Hirvonen, Miss. Hildur E",male,,0,0,A.5. 11206,63.6494,,S
-856,1,3,"Graham, Mrs. William Thompson (Edith Junkins)",male,69.47,0,0,349909,11.4008,,S
-891,1,3,"West, Mr. Edwy Arthur",male,24.87,0,0,26360,17.3469,,S
-282,1,3,"Peuchen, Major. Arthur Godfrey",male,32.59,0,0,W.E.P. 5734,6.7434,,C
-332,1,2,"Sandstrom, Miss. Marguerite Rut",male,27.72,1,0,A/5 3540,62.1278,,Q
-117,0,2,"Bazzani, Miss. Albina",male,72.82,0,0,336439,44.802,,S
-770,1,3,"Kelly, Mr. James",male,58.74,1,0,370370,69.5896,D20,C
-855,1,3,"Radeff, Mr. Alexander",male,,1,0,PC 17473,11.6226,,S
-838,0,2,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",female,65.43,1,0,1601,7.9972,,S
-128,0,3,"Sloper, Mr. William Thompson",male,25.53,0,0,349219,94.0572,,Q
-776,0,3,"Ali, Mr. Ahmed",male,79.97,0,1,PC 17755,45.343,,S
-703,0,2,"Dean, Master. Bertram Vere",female,29.44,0,0,113056,11.3503,,S
-795,1,3,"Persson, Mr. Ernst Ulrik",male,,0,0,110152,61.3893,,Q
-643,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",male,,0,0,PC 17755,56.5747,,C
-198,0,3,"Mitchell, Mr. Henry Michael",female,36.59,1,0,349212,9.836,,S
-323,0,3,"Todoroff, Mr. Lalio",female,30.67,1,0,358585,11.5413,,S
-237,0,3,"Kantor, Mrs. Sinai (Miriam Sternin)",female,28.8,4,0,349245,109.889,,C
-710,1,3,"Coutts, Master. Eden Leslie ""Neville""",female,,0,1,347054,25.586,A6,
-517,0,2,"Beesley, Mr. Lawrence",male,22.76,0,2,A/5 21174,139.5397,C125,C
-784,0,3,"McCoy, Miss. Agnes",female,55.66,0,0,W/C 14208,86.7789,,S
-891,0,3,"Lindqvist, Mr. Eino William",female,31.61,1,0,349224,44.0821,G6,S
-590,1,1,"Emir, Mr. Farred Chehab",male,30.96,0,0,PC 17609,6.8863,,C
-187,1,2,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",male,,0,0,SOTON/OQ 392082,15.9507,,S
-890,0,2,"Harrington, Mr. Charles H",male,33.16,0,0,PC 17572,11.3273,,S
-610,1,1,"Peter, Mrs. Catherine (Catherine Rizk)",male,23.72,0,0,SOTON/OQ 3101316,30.503,E36,
-888,0,3,"Brown, Mr. Thomas William Solomon",female,25.51,0,0,113806,293.9858,,C
-819,0,3,"Pettersson, Miss. Ellen Natalia",male,29.74,0,0,28228,5.9573,C83,S
-660,0,2,"Christy, Miss. Julie Rachel",female,,0,0,113792,36.1144,,S
-424,0,2,"Isham, Miss. Ann Elizabeth",female,62.87,0,0,315037,171.9262,,S
-438,1,3,"Daniel, Mr. Robert Williams",male,,0,0,1601,81.442,,S
-177,1,2,"McCarthy, Mr. Timothy J",male,26.3,0,0,13507,14.082,,S
-891,0,2,"Thorne, Mrs. Gertrude Maybelle",male,30.72,0,0,29106,9.7556,,S
-793,1,3,"Slayter, Miss. Hilda Mary",male,29.64,1,0,350035,17.7882,,C
-758,0,3,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,65.86,0,0,323592,194.132,,S
-519,1,3,"Bonnell, Miss. Elizabeth",female,,0,0,382652,3.7356,B49,S
-179,0,2,"Johnson, Mr. Alfred",female,,1,2,349256,11.1689,,S
-891,0,3,"Daly, Mr. Peter Denis ",female,30.04,4,1,239854,62.9918,,C
-779,0,2,"McCormack, Mr. Thomas Joseph",male,60.88,0,0,110152,83.2753,,Q
-567,1,3,"Youseff, Mr. Gerious",male,,1,0,A/5. 3336,61.1002,,S
-104,0,2,"Burns, Miss. Elizabeth Margaret",female,30.5,0,0,367231,66.8829,D26,Q
-891,0,3,"Compton, Miss. Sara Rebecca",female,20.33,0,0,A/5. 851,12.5875,,C
-736,0,3,"Jensen, Mr. Svend Lauritz",male,,1,0,PC 17485,80.0254,,S
-585,0,1,"Jarvis, Mr. John Denzil",male,33.25,0,0,230136,13.9025,,Q
-704,0,2,"Pears, Mr. Thomas Clinton",female,43.78,0,0,112059,8.3673,,C
-186,0,2,"Bourke, Mr. John",male,67.26,4,0,349228,4.4731,,S
-855,0,2,"Dowdell, Miss. Elizabeth",male,,0,0,2908,23.3616,A16,Q
-662,1,3,"Eklund, Mr. Hans Linus",male,,0,0,1601,48.4954,,S
-524,1,1,"Chapman, Mr. Charles Henry",male,,0,0,367230,192.3986,,C
-562,1,3,"Jussila, Mr. Eiriik",male,52.38,1,0,SC/PARIS 2146,11.5525,,C
-891,0,2,"Lefebre, Miss. Mathilde",male,,1,0,239856,338.2009,,S
-580,1,3,"Johnson, Mr. Malkolm Joackim",male,32.86,0,0,C.A. 17248,35.8392,C78,S
-767,1,3,"Coleff, Mr. Peju",female,31.57,0,0,CA. 2343,97.1122,,C
-192,1,2,"Meek, Mrs. Thomas (Annie Louise Rowley)",male,31.84,0,0,21440,8.2084,,C
-742,1,3,"Aubart, Mme. Leontine Pauline",female,29.68,1,0,19947,29.9603,D47,C
-353,0,1,"Moen, Mr. Sigurd Hansen",female,27.39,1,3,371362,67.8565,,C
-766,0,1,"Niskanen, Mr. Juha",female,60.01,0,2,349214,35.8999,E10,C
-871,1,2,"Stead, Mr. William Thomas",male,58.19,1,0,229236,14.8403,B57 B59 B63 B66,S
-713,1,1,"Parr, Mr. William Henry Marsh",male,31.08,0,0,PC 17755,85.7036,,C
-796,1,2,"Becker, Master. Richard F",female,28.27,0,0,PC 17757,34.2,,S
-586,1,2,"Allum, Mr. Owen George",female,24.43,1,0,244252,35.4941,,S
-891,1,3,"Coelho, Mr. Domingos Fernandeo",female,,4,2,19877,23.8253,,C
-778,1,2,"Lovell, Mr. John Hall (""Henry"")",male,26.59,3,0,A/5 21171,61.8741,C46,
-242,0,1,"Chronopoulos, Mr. Apostolos",male,27.76,0,0,CA. 2343,87.0142,,S
-891,0,3,"Sloper, Mr. William Thompson",female,31.74,2,0,347088,52.8734,,C
-758,1,2,"Compton, Miss. Sara Rebecca",male,28.92,1,0,347742,11.7321,,C
-494,0,1,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,25.11,1,0,367229,195.7924,,C
-827,0,3,"Sage, Mr. George John Jr",female,27.36,1,1,347082,13.1321,,C
-632,1,3,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",male,32.11,0,0,382652,12.1794,,C
-637,0,3,"Shelley, Mrs. William (Imanita Parrish Hall)",female,30.58,0,0,347742,13.7691,E77,S
-802,1,2,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",male,31.04,0,2,113028,61.267,,S
-643,0,3,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,60.33,0,0,349246,9.3055,A31,S
-186,0,3,"Garfirth, Mr. John",male,29.69,1,0,348124,70.0801,,S
-191,1,1,"Ilett, Miss. Bertha",male,27.66,1,0,345780,219.7827,D20,
-891,1,3,"Keane, Miss. Nora A",female,25.13,0,2,364511,3.4846,,C
-837,0,2,"Brewe, Dr. Arthur Jackson",female,31.66,0,0,17464,13.7283,,S
-794,1,3,"Abbing, Mr. Anthony",male,,1,0,19943,38.6556,,S
-475,1,3,"Harknett, Miss. Alice Phoebe",male,29.55,1,0,113781,31.1355,C106,C
-891,0,3,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",male,33.26,0,0,S.C./PARIS 2079,61.0372,,S
-891,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",male,18.55,5,2,113505,19.3025,C118,Q
-141,0,3,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,19.91,1,0,113505,9.946,A32,
-828,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",male,20.6,0,1,347742,8.4258,,S
-875,0,1,"Andersson, Miss. Erna Alexandra",male,24.77,3,0,PC 17569,100.1419,,S
-754,0,3,"Rintamaki, Mr. Matti",male,,0,0,2223,8.2925,,S
-227,0,2,"Christmann, Mr. Emil",female,29.46,0,2,36947,179.2475,C22 C26,C
-699,1,2,"Hirvonen, Miss. Hildur E",female,17.0,0,0,392096,1.7584,,C
-219,0,1,"Foreman, Mr. Benjamin Laventall",male,,0,2,330959,5.5724,D35,C
-841,1,2,"Betros, Mr. Tannous",female,,0,0,36866,41.7986,B28,C
-777,1,3,"Asim, Mr. Adola",male,27.7,0,0,113803,11.8121,,C
-705,0,2,"Simonius-Blumer, Col. Oberst Alfons",female,31.62,3,0,11753,86.749,C46,C
-846,0,3,"Hirvonen, Miss. Hildur E",female,22.19,1,0,19950,200.9341,C2,S
-891,1,3,"Chip, Mr. Chang",female,34.3,0,0,W./C. 6608,0.0,,C
-615,1,1,"Laleff, Mr. Kristo",male,27.47,0,0,2620,20.1822,C124,S
-148,1,3,"Van Impe, Mr. Jean Baptiste",male,27.57,0,0,2661,37.339,,C
-296,0,3,"Wells, Miss. Joan",male,80.0,4,0,A/4. 20589,23.4367,,S
-119,1,3,"Francatelli, Miss. Laura Mabel",female,,0,0,113794,9.8081,A31,Q
-293,0,3,"McCoy, Miss. Agnes",male,32.32,1,0,54636,5.1236,A34,C
-823,0,2,"Bracken, Mr. James H",female,30.39,1,0,29751,217.7145,,S
-790,0,3,"Thomas, Master. Assad Alexander",male,33.88,4,0,382652,45.3506,,C
-242,1,2,"Mack, Mrs. (Mary)",female,30.37,0,0,S.C./A.4. 23567,14.1349,,Q
-665,0,2,"Haas, Miss. Aloisia",male,69.58,1,0,220367,29.1622,C70,C
-834,1,3,"Reynaldo, Ms. Encarnacion",male,,0,0,230080,84.7033,,S
-234,0,3,"Theobald, Mr. Thomas Leonard",female,39.86,1,0,367230,26.8231,B28,S
-878,1,2,"Watson, Mr. Ennis Hastings",female,32.36,1,0,PC 17572,8.2631,C45,S
-318,0,3,"Birkeland, Mr. Hans Martin Monsen",male,10.04,0,0,349215,14.5054,,C
-242,1,2,"Chambers, Mr. Norman Campbell",female,20.39,0,0,112059,11.4026,,S
-260,1,1,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,28.42,1,0,29104,83.0706,A14,Q
-821,0,3,"Abbing, Mr. Anthony",male,,0,0,PP 9549,41.4565,,S
-442,0,3,"Coleff, Mr. Peju",female,,0,0,349237,37.1446,B4,Q
-269,1,2,"Johnson, Master. Harold Theodor",female,33.33,0,0,SC/AH Basle 541,16.2541,C68,C
-633,1,3,"Beckwith, Mr. Richard Leonard",male,32.74,1,0,SC/AH Basle 541,55.4334,,Q
-716,0,3,"Ford, Mr. William Neal",female,23.82,0,0,36866,14.1589,,Q
-886,1,3,"Kent, Mr. Edward Austin",female,25.39,1,0,323592,230.0488,,C
-236,0,3,"Harrington, Mr. Charles H",female,57.06,4,0,110413,35.5596,F38,S
-737,1,3,"Kraeff, Mr. Theodor",female,,0,0,330959,32.399,,S
-605,1,3,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,69.73,1,0,113760,13.7536,,S
-142,1,1,"Troupiansky, Mr. Moses Aaron",male,24.43,0,0,4138,9.2865,C62 C64,Q
-615,1,3,"Walker, Mr. William Anderson",male,,0,0,349201,61.8316,,S
-756,0,2,"Stone, Mrs. George Nelson (Martha Evelyn)",female,24.87,4,0,349251,9.9766,F2,S
-627,0,2,"Dowdell, Miss. Elizabeth",male,22.29,3,0,113773,32.4828,B49,S
-309,0,3,"Nye, Mrs. (Elizabeth Ramell)",female,31.42,0,0,335097,7.7872,,S
-380,1,3,"Woolner, Mr. Hugh",female,69.88,0,0,364498,97.1765,,C
-814,0,3,"Culumovic, Mr. Jeso",female,30.17,1,0,384461,58.3158,,S
-510,0,3,"Parkes, Mr. Francis ""Frank""",female,38.27,1,0,17465,96.7892,C110,Q
-173,0,3,"Sutehall, Mr. Henry Jr",female,25.38,4,0,31418,10.7863,C50,C
-824,0,2,"Nysveen, Mr. Johan Hansen",female,46.54,1,0,A/5. 10482,13.3587,,S
-87,1,2,"Lovell, Mr. John Hall (""Henry"")",female,,1,0,364851,10.8453,A6,C
-777,0,3,"Chapman, Mr. Charles Henry",female,13.21,1,0,113786,32.2823,,S
-613,1,1,"Bishop, Mr. Dickinson H",male,25.43,0,0,C.A. 6212,32.8184,,C
-651,1,3,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,23.11,1,2,24160,57.2631,C99,Q
-891,1,3,"Blank, Mr. Henry",male,43.15,1,2,F.C.C. 13531,48.1413,,C
-309,1,2,"Andrews, Mr. Thomas Jr",female,25.95,0,0,112058,81.5298,E17,S
-472,0,2,"Johansson, Mr. Gustaf Joel",female,14.88,0,2,349234,67.2715,B30,Q
-415,0,3,"Harper, Miss. Annie Jessie ""Nina""",male,,0,0,113028,25.7566,,S
-737,0,3,"Gheorgheff, Mr. Stanio",male,54.03,0,1,19996,74.3869,C32,Q
-349,0,2,"Morrow, Mr. Thomas Rowan",female,,1,0,233639,22.0642,A20,C
-849,0,2,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",male,60.66,3,2,34218,5.2373,,S
-219,0,3,"Yousif, Mr. Wazli",female,56.56,0,0,29751,83.5515,,C
-96,0,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",male,45.35,0,0,243847,16.2635,,C
-539,0,2,"Goldsmith, Mr. Frank John",female,60.26,0,3,113787,30.9131,,S
-659,0,1,"McGough, Mr. James Robert",female,42.35,0,0,350060,96.0847,E67,S
-533,0,2,"Caldwell, Master. Alden Gates",female,26.49,1,2,243880,128.4221,,S
-357,0,3,"Lahtinen, Mrs. William (Anna Sylfven)",male,31.7,0,1,110813,41.497,D15,S
-537,1,3,"Berriman, Mr. William John",female,71.17,0,0,2651,92.5721,,S
-283,1,3,"Williams-Lambert, Mr. Fletcher Fellows",male,32.9,0,0,PC 17757,43.1793,,C
-891,0,3,"Ostby, Mr. Engelhart Cornelius",female,23.34,1,1,PC 17569,160.7068,,S
-208,0,1,"Dean, Master. Bertram Vere",female,76.09,1,0,113043,6.3198,,C
-891,0,1,"Harrison, Mr. William",male,,0,0,335677,7.7234,,S
-204,1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",male,31.76,0,0,36864,85.3223,,S
-653,0,2,"Navratil, Master. Edmond Roger",female,31.24,0,0,PC 17755,37.8473,,S
-104,1,3,"Kilgannon, Mr. Thomas J",female,55.92,1,0,113781,74.0829,,S
-820,1,3,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",male,62.56,0,2,349909,50.9844,,C
-790,0,1,"Pears, Mrs. Thomas (Edith Wearne)",male,77.2,0,0,363291,6.3438,,S
-653,0,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",female,31.11,0,0,367228,41.3032,,S
-560,1,3,"Braund, Mr. Lewis Richard",male,,5,0,11668,237.2144,E58,S
-882,1,3,"Beesley, Mr. Lawrence",male,,1,0,244310,82.292,C45,Q
-877,1,3,"Allen, Miss. Elisabeth Walton",male,30.37,0,0,STON/O2. 3101290,9.0171,,C
-814,1,3,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,29.4,0,0,A/5. 851,10.9584,,C
-782,0,1,"Davidson, Mr. Thornton",male,30.37,0,0,110465,51.7844,,S
-799,0,3,"Sloper, Mr. William Thompson",male,,1,0,11813,276.2474,,S
-750,1,1,"Bourke, Mrs. John (Catherine)",male,,0,1,349204,7.7931,,S
-696,0,2,"LeRoy, Miss. Bertha",female,33.2,0,0,SOTON/OQ 392089,23.5314,,S
-219,1,3,"Smith, Miss. Marion Elsie",male,47.86,0,0,111361,50.5796,,C
-204,0,2,"Gustafsson, Mr. Alfred Ossian",female,21.21,0,0,349912,4.5114,B5,S
-125,1,3,"Gustafsson, Mr. Karl Gideon",male,29.58,1,0,17421,77.8376,F G63,C
-891,0,3,"Moran, Mr. Daniel J",male,11.49,0,0,345773,74.2011,C124,C
-825,1,2,"Cherry, Miss. Gladys",female,48.05,1,0,113806,42.7248,,S
-474,0,3,"Longley, Miss. Gretchen Fiske",male,29.67,0,0,3101295,4.1604,E68,C
-628,1,2,"Sagesser, Mlle. Emma",male,28.32,1,1,13567,55.1165,D37,C
-769,0,1,"Moss, Mr. Albert Johan",female,31.93,0,1,113767,1.7827,C90,
-290,1,3,"Lesurer, Mr. Gustave J",female,,0,0,350046,252.5645,,C
-306,0,3,"Johansson, Mr. Karl Johan",female,28.51,3,2,PC 17608,68.3641,,S
-867,0,2,"Moraweck, Dr. Ernest",male,32.83,1,2,19947,78.2785,,C
-269,0,3,"Sheerlinck, Mr. Jan Baptist",male,32.94,0,0,248727,63.5431,,Q
-807,1,2,"Hosono, Mr. Masabumi",female,25.61,0,1,349233,59.1429,B94,S
-300,1,3,"McGough, Mr. James Robert",male,,0,0,349233,85.9016,,S
-79,0,3,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",male,63.6,0,1,4137,45.4642,E46,C
-369,0,3,"Beane, Mrs. Edward (Ethel Clarke)",female,30.65,0,0,W./C. 6608,11.4635,,S
-867,0,3,"Fry, Mr. Richard",male,21.91,0,0,4138,13.216,,C
-294,0,3,"Nosworthy, Mr. Richard Cater",female,29.86,8,0,C.A. 37671,109.9509,D,C
-550,1,3,"Sdycoff, Mr. Todor",male,30.86,1,0,350026,80.1826,,S
-694,1,3,"Vander Cruyssen, Mr. Victor",female,23.34,0,2,349252,64.7261,,C
-339,0,3,"Sunderland, Mr. Victor Francis",female,60.48,0,0,315089,6.5283,E34,C
-818,1,3,"Serepeca, Miss. Augusta",male,30.44,1,0,S.C./A.4. 23567,94.3053,,S
-551,0,2,"Gheorgheff, Mr. Stanio",male,23.72,1,0,PC 17582,28.5491,,S
-456,1,2,"Leonard, Mr. Lionel",female,32.44,0,0,STON/O 2. 3101269,5.5445,A32,C
-382,1,1,"Lefebre, Miss. Ida",female,,0,0,LINE,512.3292,,S
-843,1,2,"Foreman, Mr. Benjamin Laventall",female,62.93,0,2,362316,22.7383,A26,Q
-596,0,2,"Bradley, Mr. George (""George Arthur Brayton"")",male,23.63,1,2,PC 17608,163.0571,C22 C26,S
-824,1,3,"Richard, Mr. Emile",male,24.7,1,0,2695,16.2445,,C
-891,1,2,"McGowan, Miss. Anna ""Annie""",male,29.88,0,0,C.A. 2673,43.4579,,S
-716,0,1,"Markoff, Mr. Marin",female,53.6,0,0,PC 17558,5.1786,F G73,
-720,0,3,"Rommetvedt, Mr. Knud Paust",female,24.45,1,0,2003,15.722,,S
-464,0,2,"Cunningham, Mr. Alfred Fleming",male,32.43,0,0,113572,13.6121,,C
-891,0,3,"Marechal, Mr. Pierre",male,32.17,0,0,C.A. 37671,27.2468,,S
-464,0,1,"Scanlan, Mr. James",male,,8,0,4579,15.1059,C118,C
-865,1,2,"Butt, Major. Archibald Willingham",female,,1,0,CA. 2343,9.2327,,C
-275,1,2,"Becker, Miss. Marion Louise",female,30.17,0,0,230434,89.9048,E31,C
-891,0,3,"Murphy, Miss. Margaret Jane",female,26.97,0,0,35273,65.2633,,C
-410,1,3,"Johanson, Mr. Jakob Alfred",male,42.07,0,2,324669,89.3713,C148,S
-844,0,3,"Johansson, Mr. Erik",female,22.69,0,0,PC 17572,12.3659,,S
-696,0,3,"Silvey, Mr. William Baird",male,50.44,0,2,36568,28.7201,D,S
-859,1,3,"Somerton, Mr. Francis William",male,30.41,0,0,336439,10.5932,,C
-891,0,3,"Abelson, Mrs. Samuel (Hannah Wizosky)",male,70.76,0,0,PC 17760,28.6487,,S
-222,1,3,"Leinonen, Mr. Antti Gustaf",male,25.1,3,2,349209,52.1755,C2,Q
-257,0,3,"Shellard, Mr. Frederick William",female,42.17,1,1,11767,18.206,B28,Q
-309,1,3,"Aubart, Mme. Leontine Pauline",male,34.14,1,0,113789,7.8788,,S
-891,0,2,"Vande Walle, Mr. Nestor Cyriel",female,26.87,0,0,347068,27.3496,D,S
-780,0,3,"Garfirth, Mr. John",female,,4,0,250643,101.1152,,S
-756,0,2,"de Pelsmaeker, Mr. Alfons",female,24.31,0,0,8475,10.1518,B19,C
-564,1,1,"West, Mr. Edwy Arthur",female,29.89,1,0,A/5 3536,7.0753,B58 B60,S
-308,0,1,"Hodges, Mr. Henry Price",female,25.46,0,0,349251,9.2887,,S
-891,0,2,"Endres, Miss. Caroline Louise",male,32.47,1,0,220367,108.1304,E34,Q
-891,0,2,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,26.39,0,1,36568,36.9,,S
-798,0,3,"Yasbeck, Mr. Antoni",female,31.55,1,0,PC 17757,73.9725,,S
-686,0,3,"Bourke, Miss. Mary",female,24.59,1,0,347060,18.0048,,S
-240,0,3,"Gheorgheff, Mr. Stanio",female,60.49,0,0,SOTON/OQ 392076,75.3726,,Q
-571,1,3,"Stone, Mrs. George Nelson (Martha Evelyn)",female,30.01,0,1,P/PP 3381,0.9673,C7,S
-820,0,3,"Petroff, Mr. Nedelio",male,,0,2,SOTON/OQ 3101316,13.6571,,S
-652,1,2,"Landergren, Miss. Aurora Adelia",female,25.13,1,3,345364,15.6875,G6,S
-564,1,3,"Mangan, Miss. Mary",female,21.44,0,0,PC 17608,9.9524,,S
-557,0,3,"Scanlan, Mr. James",female,28.69,0,0,PC 17757,8.0261,,S
-891,1,3,"Lam, Mr. Len",female,,0,0,PC 17761,64.5757,,C
-833,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,50.11,0,0,PC 17599,129.8066,B57 B59 B63 B66,S
-836,0,3,"Dowdell, Miss. Elizabeth",female,,1,0,112277,180.3118,C22 C26,C
-236,0,2,"Arnold-Franchi, Mr. Josef",female,28.35,0,0,PC 17760,11.5159,,S
-853,0,1,"Icard, Miss. Amelie",female,31.91,0,0,367226,98.1517,,C
-855,0,3,"Jensen, Mr. Niels Peder",female,32.24,1,0,LINE,82.1316,,S
-222,0,2,"Meo, Mr. Alfonzo",female,28.76,0,0,11752,13.4817,B49,Q
-835,1,2,"Augustsson, Mr. Albert",male,33.02,0,0,16966,31.9278,,S
-891,0,3,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,30.65,1,0,C.A. 29566,14.5032,,S
-129,0,3,"Bidois, Miss. Rosalie",male,31.98,0,0,36947,64.2225,,S
-298,0,2,"Wick, Miss. Mary Natalie",male,41.89,0,0,250649,8.8266,,S
-891,0,2,"Seward, Mr. Frederic Kimber",female,32.33,0,0,S.O.C. 14879,251.736,,C
-888,1,3,"Spencer, Mrs. William Augustus (Marie Eugenie)",male,32.41,1,0,230080,70.507,,S
-756,0,2,"Devaney, Miss. Margaret Delia",female,21.6,1,1,A/5 21173,98.82,,
-522,0,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,54.76,0,0,SOTON/O.Q. 3101311,66.1938,,S
-253,1,2,"Eustis, Miss. Elizabeth Mussey",male,29.6,5,0,248747,13.1999,,C
-199,0,1,"de Pelsmaeker, Mr. Alfons",male,26.29,5,0,S.O.C. 14879,58.222,C99,Q
-714,0,3,"Sutton, Mr. Frederick",female,45.83,0,2,371110,98.798,B28,S
+Survived,Age,SibSp,Parch,Fare,female,Pclass1,Pclass2,C,Q
+1,1.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-2.0,0,0,0.0,1.0,0.0,1.0,0.0,0.0
+0,-1.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,1.0,1.0,0.0,0.0
+1,-2.0,1,2,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,1.0,1.0,1.0,1.0
+0,-0.0,0,0,6.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-2.0,1,2,-0.0,0.0,1.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,2,-1.0,1.0,0.0,0.0,1.0,1.0
+1,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+1,2.0,0,1,-1.0,1.0,0.0,0.0,1.0,0.0
+1,-1.0,0,2,-0.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,2,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,0.0,0.0,1.0
+0,-1.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,1.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,2,-1.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-1.0,3,0,-0.0,0.0,0.0,1.0,0.0,0.0
+1,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,1,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-2.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,1,-0.0,0.0,0.0,1.0,0.0,0.0
+0,0.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,2.0,0,0,-0.0,0.0,0.0,1.0,1.0,0.0
+0,-0.0,1,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,1.0,1,1,-0.0,1.0,1.0,1.0,0.0,0.0
+0,-0.0,0,1,3.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,3,2,-1.0,1.0,1.0,0.0,1.0,0.0
+0,0.0,0,0,-0.0,0.0,1.0,1.0,0.0,0.0
+1,1.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,2,-0.0,0.0,0.0,1.0,0.0,0.0
+1,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,2,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-1.0,1.0,0.0,1.0,0.0,0.0
+1,-2.0,0,1,-1.0,0.0,0.0,0.0,1.0,0.0
+0,0.0,0,2,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,1.0,1.0,0.0,0.0
+0,-0.0,2,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-2.0,1,0,-1.0,0.0,1.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,1.0,0.0,1.0,0.0
+0,-1.0,1,1,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-1.0,1,1,0.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,0,1,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,1.0
+1,-0.0,0,0,-1.0,1.0,1.0,0.0,1.0,0.0
+0,1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,1.0,0.0,0.0
+1,-2.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,0.0,0.0,0.0,0.0,1.0
+1,-0.0,0,0,-1.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,1,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,1,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,0,1,-0.0,1.0,0.0,0.0,0.0,1.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,1.0,0.0
+1,1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,2,-0.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,2,1.0,0.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,2.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,4.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,0,1,0.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,1,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,1,1,-0.0,1.0,0.0,1.0,0.0,0.0
+0,0.0,0,0,-0.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,2.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-2.0,1,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,1.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+1,0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,0.0,0.0,1.0,1.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,1.0,0,0,-0.0,1.0,0.0,0.0,0.0,1.0
+0,-2.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,0,-1.0,0.0,1.0,0.0,1.0,0.0
+0,-0.0,0,1,-0.0,1.0,0.0,1.0,0.0,0.0
+0,0.0,1,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-0.0,0.0,1.0,1.0,0.0,0.0
+1,-2.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,1,1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,1,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,1.0,1.0,0.0,0.0
+1,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-0.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,1,1,-0.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,0,2,-1.0,0.0,0.0,1.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,1.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-2.0,0,2,-0.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,2,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,2,-1.0,0.0,0.0,0.0,0.0,0.0
+0,2.0,0,0,-0.0,0.0,0.0,1.0,1.0,0.0
+0,-1.0,0,1,-1.0,0.0,1.0,1.0,1.0,0.0
+0,-1.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,1,-0.0,0.0,1.0,0.0,0.0,0.0
+0,2.0,0,1,-1.0,0.0,1.0,0.0,1.0,0.0
+0,-2.0,1,0,-1.0,1.0,0.0,0.0,1.0,1.0
+0,-0.0,0,0,0.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,0.0,1,2,0.0,0.0,1.0,0.0,0.0,0.0
+1,-2.0,0,1,-1.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-0.0,0.0,0.0,0.0,1.0,1.0
+0,-1.0,0,0,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-2.0,0,2,-0.0,1.0,0.0,0.0,0.0,1.0
+0,-0.0,1,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,1,1,-0.0,0.0,0.0,1.0,0.0,0.0
+1,-1.0,1,0,-0.0,0.0,1.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+1,-0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,1,0,0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,1.0
+1,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,0.0,0.0,0.0,0.0,1.0
+1,-1.0,4,0,-0.0,1.0,0.0,1.0,1.0,0.0
+1,2.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,1.0,0.0,0.0,1.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,1.0,1.0,0.0,0.0,1.0
+0,-0.0,0,0,1.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+0,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,3.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,1,0,-1.0,1.0,1.0,0.0,0.0,0.0
+0,1.0,0,0,0.0,0.0,1.0,0.0,0.0,0.0
+0,-2.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,0.0,1.0,0.0
+1,-2.0,0,0,-0.0,0.0,1.0,1.0,0.0,0.0
+1,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,8,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,6,2,1.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,1,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,-2.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,1.0
+0,-1.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,1,2,0.0,1.0,0.0,1.0,0.0,1.0
+1,-2.0,0,0,-1.0,1.0,0.0,1.0,1.0,1.0
+1,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,2,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,0,2,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,-0.0,1.0,1.0,0.0,1.0,1.0
+1,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,1.0,1,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,0,2,-1.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,2.0,0.0,0.0,0.0,1.0,0.0
+1,0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,1.0,1.0,0.0,1.0,1.0
+0,0.0,0,1,-0.0,1.0,0.0,1.0,1.0,0.0
+1,-0.0,1,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,2,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,1.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,1,1,-1.0,0.0,0.0,0.0,1.0,1.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,1.0
+0,-0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,0.0,5,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,0.0,0.0,1.0,0.0,1.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,0.0,1.0,1.0
+0,-1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-0.0,0.0,0.0,1.0,0.0,0.0
+1,1.0,1,0,-1.0,1.0,1.0,0.0,1.0,1.0
+1,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,1.0,1.0,0.0
+0,-1.0,1,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,1,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,0.0,1,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,-2.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,1.0,0.0,0.0,1.0
+0,-2.0,0,2,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,1,1,-0.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,1,0,0.0,0.0,1.0,1.0,0.0,1.0
+1,-0.0,1,0,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,2,-0.0,1.0,1.0,1.0,0.0,0.0
+1,-2.0,0,1,-1.0,1.0,0.0,1.0,0.0,1.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-0.0,1.0,1.0,1.0,0.0,1.0
+0,-0.0,0,2,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-1.0,0,1,-1.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,0,0,0.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-1.0,0,0,1.0,1.0,0.0,0.0,0.0,0.0
+1,1.0,0,2,-0.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,2,-1.0,1.0,0.0,0.0,0.0,1.0
+1,-1.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,-1.0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,2,-1.0,0.0,1.0,1.0,0.0,0.0
+0,-0.0,0,2,-0.0,1.0,1.0,1.0,0.0,0.0
+0,2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,2.0,0,0,-0.0,0.0,0.0,0.0,1.0,1.0
+0,-2.0,0,0,-0.0,1.0,1.0,0.0,0.0,1.0
+1,-1.0,0,1,-0.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-1.0,0.0,1.0,0.0,0.0,1.0
+1,-1.0,0,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,1,1,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,1,-1.0,1.0,0.0,0.0,1.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,1,1,-1.0,0.0,1.0,0.0,0.0,0.0
+1,0.0,0,1,-1.0,0.0,1.0,0.0,1.0,0.0
+0,1.0,0,0,-1.0,1.0,1.0,0.0,0.0,1.0
+1,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,-1.0,0.0,1.0,0.0,1.0,0.0
+0,-0.0,0,1,0.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,2.0,1.0,0.0,0.0,1.0,0.0
+1,-2.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,-0.0,6,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,1,1,-1.0,0.0,0.0,1.0,0.0,1.0
+0,-2.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,1,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,1,0,0.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+1,-2.0,1,1,-0.0,0.0,1.0,0.0,0.0,1.0
+0,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-2.0,1,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,1,0,0.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,1.0,1.0,0.0,0.0
+1,1.0,0,0,-1.0,0.0,1.0,0.0,1.0,0.0
+0,-0.0,0,0,-0.0,0.0,1.0,0.0,1.0,0.0
+0,-0.0,0,0,1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,0.0,1.0,1.0,1.0,0.0,0.0
+0,1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,2,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-1.0,0.0,1.0,1.0,0.0,0.0
+1,0.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-0.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,1,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,1.0,0.0,1.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-1.0,1,3,-0.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,1,-0.0,1.0,0.0,0.0,0.0,1.0
+1,-0.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,1,1,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-1.0,0,1,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-2.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-1.0,1.0,1.0,0.0,0.0,1.0
+1,0.0,1,2,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,3,0,-0.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,1.0,1.0,0.0,1.0,1.0
+0,-0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,-0.0,1.0,1.0,0.0,1.0,0.0
+0,-1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,1.0,0.0,0.0
+0,1.0,1,0,-1.0,0.0,1.0,0.0,1.0,0.0
+1,-1.0,1,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,1,0,-0.0,1.0,0.0,0.0,0.0,1.0
+1,-0.0,0,1,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,2,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,-1.0,1.0,0.0,1.0,0.0,0.0
+0,0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,2,-0.0,0.0,0.0,0.0,0.0,0.0
+0,3.0,0,1,-0.0,0.0,1.0,0.0,1.0,0.0
+0,-2.0,0,1,-1.0,1.0,1.0,0.0,1.0,0.0
+0,-1.0,0,0,-1.0,0.0,0.0,1.0,1.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-2.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-0.0,0,0,-0.0,1.0,0.0,0.0,1.0,0.0
+1,0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,2,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,-1.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,0.0,1.0,1.0,0.0
+0,-2.0,0,0,-1.0,1.0,0.0,0.0,0.0,1.0
+0,-1.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,2,2.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,0.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,1,2,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,1,1,-1.0,0.0,1.0,0.0,1.0,0.0
+0,-0.0,1,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,2.0,0,0,-0.0,1.0,0.0,0.0,1.0,0.0
+0,0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,1,-1.0,1.0,0.0,1.0,0.0,0.0
+0,1.0,0,0,-0.0,0.0,1.0,1.0,0.0,0.0
+0,-2.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-0.0,0.0,0.0,0.0,1.0,0.0
+0,0.0,0,0,0.0,1.0,1.0,0.0,0.0,0.0
+1,0.0,1,1,-1.0,1.0,0.0,0.0,1.0,1.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,0,-0.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,1.0,0.0,0.0,1.0
+0,-1.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,1,-1.0,0.0,1.0,1.0,0.0,0.0
+1,-1.0,0,1,-0.0,0.0,1.0,0.0,0.0,0.0
+1,-1.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,1.0
+0,-1.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-1.0,1.0,0.0,0.0,0.0,1.0
+1,-0.0,0,1,-1.0,1.0,1.0,0.0,1.0,1.0
+0,-1.0,0,0,-0.0,1.0,1.0,0.0,1.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+1,-0.0,0,1,-1.0,0.0,0.0,1.0,0.0,1.0
+1,0.0,0,2,-0.0,0.0,1.0,0.0,1.0,0.0
+0,2.0,0,2,-0.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,0.0,1.0,0.0,0.0,0.0,1.0
+0,0.0,1,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+1,-2.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-2.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,3,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,0,0,6.0,1.0,1.0,0.0,1.0,0.0
+0,1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,3,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,5,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-1.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+1,0.0,0,1,2.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,1.0
+1,-0.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+0,-0.0,1,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,2,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-0.0,0.0,0.0,1.0,0.0,0.0
+1,-2.0,1,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,2,-0.0,1.0,0.0,0.0,1.0,0.0
+1,-1.0,0,1,-0.0,0.0,0.0,0.0,1.0,1.0
+1,-1.0,0,0,-1.0,1.0,1.0,0.0,1.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,2,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-0.0,0.0,1.0,0.0,0.0,1.0
+1,-0.0,3,0,-0.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,1,1,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-1.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-1.0,0,0,5.0,1.0,1.0,0.0,0.0,1.0
+0,2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,1.0,0.0,0.0,0.0
+1,0.0,0,2,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,1.0,0.0,1.0,1.0
+1,-0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-2.0,1,0,-1.0,0.0,1.0,1.0,0.0,0.0
+1,-2.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-2.0,0,1,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-1.0,1,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+1,2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-2.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,1,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,2.0,0,2,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-2.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,2,-0.0,1.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,1,-0.0,1.0,0.0,0.0,0.0,1.0
+0,0.0,1,0,1.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,2,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-2.0,1,1,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-2.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+1,2.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-1.0,0.0,1.0,0.0,1.0,0.0
+1,0.0,1,0,-0.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,3,2,-1.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,1.0,1,1,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,1,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-0.0,1,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,1,0,-1.0,1.0,0.0,0.0,1.0,0.0
+0,0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,1,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,2.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,2,0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+1,-2.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,1.0,0.0,1.0
+0,-0.0,1,2,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,2,1,-1.0,0.0,0.0,1.0,1.0,0.0
+1,-0.0,0,0,-0.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-0.0,1.0,1.0,1.0,0.0,1.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,1.0,0.0,0.0,1.0,0.0,0.0
+1,0.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+0,-1.0,0,2,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,1,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,1,1,-1.0,0.0,0.0,1.0,0.0,0.0
+1,-1.0,1,0,-0.0,0.0,0.0,0.0,1.0,0.0
+0,1.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,0,1,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,4.0,0,2,-1.0,0.0,0.0,0.0,1.0,0.0
+0,4.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,2,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,0.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,1,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-2.0,0,1,0.0,1.0,0.0,0.0,0.0,1.0
+1,0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,1,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,1,1,-1.0,0.0,1.0,0.0,0.0,1.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-0.0,0,2,-1.0,1.0,1.0,0.0,0.0,0.0
+1,1.0,0,0,-1.0,1.0,0.0,0.0,0.0,1.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+0,1.0,1,2,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-1.0,0,0,-1.0,0.0,0.0,1.0,0.0,1.0
+0,-1.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,1.0,0.0,0.0,1.0,1.0
+0,-0.0,0,0,-0.0,0.0,0.0,1.0,0.0,1.0
+0,-0.0,1,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,2,-0.0,1.0,1.0,1.0,1.0,0.0
+0,0.0,0,2,-1.0,1.0,0.0,1.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,1,0,-0.0,1.0,0.0,0.0,0.0,1.0
+0,-1.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,2,-0.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,1,-1.0,0.0,0.0,0.0,0.0,1.0
+1,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,2,-0.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-1.0,1.0,1.0,1.0,0.0,0.0
+1,-2.0,1,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-1.0,0,1,-0.0,0.0,1.0,0.0,0.0,0.0
+1,-1.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,1,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,0.0,1,1,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,1.0,0.0,0.0
+1,-0.0,1,2,-0.0,1.0,0.0,1.0,1.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,1,2,-1.0,1.0,1.0,1.0,0.0,1.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,1.0,1.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,1.0,0.0,1.0,0.0,1.0
+0,1.0,0,0,-0.0,0.0,1.0,1.0,0.0,0.0
+1,-2.0,1,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,6,1,1.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,0.0,1.0,0.0,0.0,1.0,0.0
+0,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,2,2,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,1,0,-1.0,1.0,0.0,0.0,1.0,1.0
+1,1.0,0,2,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,0.0,1.0,0.0,1.0,0.0,1.0
+1,-0.0,1,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,1,1,-0.0,0.0,0.0,1.0,1.0,0.0
+0,-1.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,0.0,0,0,-0.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,1,0,-0.0,1.0,1.0,0.0,1.0,0.0
+0,-1.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-0.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,0.0,0,0,-0.0,1.0,0.0,0.0,1.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,1.0,1.0
+1,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,1.0
+0,0.0,1,1,0.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,0.0,1.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,1.0,0,0,5.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,-1.0,0,2,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,1.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-0.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,0,0,1.0,0.0,0.0,0.0,1.0,0.0
+1,-2.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-1.0,1.0,0.0,0.0,0.0,1.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,0,-0.0,1.0,0.0,1.0,0.0,1.0
+0,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,1.0,0.0,0.0,1.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,1,0,-1.0,1.0,0.0,1.0,1.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,1,-1.0,0.0,0.0,0.0,1.0,0.0
+1,1.0,0,0,-1.0,0.0,0.0,1.0,1.0,0.0
+1,-0.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,0,1,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-1.0,0,2,-1.0,0.0,0.0,1.0,0.0,0.0
+0,0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,1,1,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-1.0,1,2,-1.0,1.0,0.0,1.0,1.0,0.0
+0,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,0.0,0.0,0.0,0.0,1.0,0.0
+1,-1.0,0,2,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,1.0,0.0
+1,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,-0.0,1,1,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-2.0,0,0,0.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,5.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,1,1,-1.0,0.0,1.0,1.0,0.0,0.0
+0,1.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,2,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-0.0,0.0,1.0,0.0,0.0,1.0
+0,-1.0,0,0,-0.0,1.0,1.0,0.0,0.0,1.0
+1,-2.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,2,1,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-2.0,0,0,-0.0,1.0,1.0,0.0,0.0,0.0
+0,-1.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,0.0,0.0,1.0,1.0,0.0,1.0
+0,-0.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,2,-1.0,0.0,0.0,1.0,0.0,0.0
+1,1.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-2.0,1,0,-0.0,1.0,0.0,0.0,0.0,1.0
+0,-0.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,2,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,2,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,1.0,0.0
+1,1.0,1,2,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,1.0,0,0,-1.0,1.0,1.0,1.0,0.0,0.0
+1,-1.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,1.0,1.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-0.0,1.0,0.0,1.0,1.0,0.0
+1,0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,0.0,1.0,1.0,0.0,1.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,1.0,0.0
+0,-1.0,0,0,-1.0,1.0,1.0,1.0,0.0,0.0
+1,2.0,0,1,-0.0,0.0,1.0,0.0,1.0,0.0
+0,-0.0,4,1,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-1.0,0,1,-0.0,1.0,0.0,0.0,0.0,1.0
+1,1.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,6,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,6,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+1,0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-2.0,0,1,5.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,1,2,1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,2,1,-1.0,1.0,0.0,0.0,1.0,0.0
+1,-0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,0.0,1.0,0.0,1.0,0.0
+1,-0.0,0,2,-0.0,0.0,1.0,0.0,1.0,0.0
+0,-0.0,1,1,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-2.0,0,1,-0.0,0.0,0.0,0.0,1.0,1.0
+1,0.0,1,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,1.0,3,0,-0.0,0.0,0.0,0.0,0.0,1.0
+0,-1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,0.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,1.0,0.0,0.0,1.0
+0,-1.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,1,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,0.0,1,0,1.0,0.0,0.0,0.0,1.0,0.0
+0,-0.0,0,1,-0.0,0.0,0.0,1.0,0.0,0.0
+0,0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,1,1,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,1,-1.0,0.0,1.0,0.0,1.0,0.0
+1,2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,1.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-2.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,1.0,0.0,0.0,1.0,0.0
+1,-2.0,1,0,-0.0,0.0,0.0,0.0,1.0,0.0
+0,-1.0,1,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,3,-0.0,0.0,0.0,1.0,0.0,0.0
+0,1.0,0,0,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,2.0,1,2,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-2.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,1,2,-0.0,0.0,0.0,1.0,0.0,1.0
+0,-0.0,0,1,-0.0,1.0,0.0,0.0,1.0,1.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,1,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-1.0,0,1,0.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,1.0,1,0,-1.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,1.0,0.0
+1,1.0,0,0,0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,0,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,1,0,-0.0,1.0,1.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,1,-1.0,0.0,0.0,1.0,1.0,0.0
+0,-1.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,2,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,1.0,0.0,0.0,1.0,1.0
+0,1.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,-2.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,0,0,-0.0,1.0,0.0,1.0,0.0,0.0
+1,1.0,0,1,-1.0,0.0,1.0,1.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,1.0,1.0,1.0,0.0
+1,-0.0,0,1,-1.0,0.0,0.0,0.0,0.0,0.0
+1,-0.0,1,0,-0.0,1.0,0.0,0.0,1.0,0.0
+0,-1.0,5,0,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-0.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,1.0,0.0,1.0,1.0,1.0
+0,1.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,3,2,0.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,0,1,1.0,1.0,0.0,1.0,0.0,0.0
+0,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+1,-2.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+1,1.0,1,1,-1.0,1.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+1,1.0,0,0,-0.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,0,1,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-1.0,1.0,1.0,0.0,0.0,0.0
+1,-2.0,1,0,-0.0,0.0,0.0,0.0,0.0,1.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,1.0,0.0,1.0,1.0
+1,-0.0,1,0,-0.0,0.0,1.0,1.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,0,-1.0,1.0,1.0,1.0,0.0,0.0
+0,0.0,1,0,-1.0,0.0,0.0,0.0,1.0,0.0
+0,-2.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-2.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,0.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-2.0,0,1,-1.0,1.0,0.0,0.0,0.0,0.0
+1,-1.0,0,1,-0.0,1.0,0.0,0.0,1.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-0.0,0,0,-0.0,1.0,1.0,1.0,0.0,0.0
+1,-0.0,0,0,-1.0,1.0,0.0,0.0,0.0,0.0
+1,3.0,0,1,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-2.0,0,2,0.0,0.0,1.0,0.0,1.0,0.0
+0,-0.0,0,1,-1.0,0.0,0.0,0.0,1.0,0.0
+1,0.0,1,0,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,0,1,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,1,0,-1.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,0,1,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-1.0,0,1,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-2.0,0,1,-1.0,1.0,1.0,0.0,0.0,0.0
+0,-2.0,0,1,0.0,0.0,0.0,1.0,0.0,0.0
+1,-0.0,0,1,-1.0,0.0,1.0,0.0,0.0,0.0
+1,-0.0,5,0,-0.0,0.0,0.0,0.0,0.0,1.0
+1,2.0,0,1,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,1,1,-0.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,1,1,-1.0,1.0,1.0,0.0,0.0,0.0
+1,2.0,5,1,-0.0,0.0,0.0,0.0,1.0,0.0
+1,-2.0,0,0,-1.0,0.0,0.0,0.0,0.0,1.0
+1,0.0,0,0,-0.0,1.0,0.0,1.0,0.0,0.0
+0,-0.0,0,0,-0.0,0.0,0.0,0.0,0.0,0.0
+0,-1.0,1,2,-0.0,0.0,1.0,0.0,1.0,1.0
+0,-1.0,1,2,-1.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,0,0,-1.0,0.0,1.0,0.0,0.0,1.0
+0,-2.0,1,2,-0.0,1.0,1.0,1.0,1.0,0.0
+0,-0.0,0,0,-0.0,0.0,1.0,0.0,0.0,0.0
+0,-0.0,0,2,-1.0,0.0,0.0,1.0,0.0,0.0
+0,0.0,0,1,-0.0,1.0,0.0,0.0,0.0,0.0
+0,-2.0,0,0,-1.0,1.0,0.0,1.0,1.0,1.0
+1,1.0,0,0,-1.0,0.0,0.0,1.0,0.0,0.0
+0,-0.0,1,0,-1.0,0.0,1.0,1.0,0.0,0.0
+1,-0.0,0,1,-0.0,0.0,1.0,0.0,0.0,0.0
