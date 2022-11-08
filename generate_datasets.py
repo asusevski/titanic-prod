@@ -11,4 +11,4 @@ n_people = len(df)
 NUM_TITANICS = 10
 for i in range(NUM_TITANICS):
     new_data = model.sample(num_rows=n_people)
-    new_data.to_csv(f'./data/generated_data/generated_dataset{i}', index=False)
+    new_data.to_csv(f'./data/generated_data/generated_dataset{i}.csv', index=False)

@@ -6,15 +6,11 @@ from sklearn.metrics import accuracy_score
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
-import wandb
 import xgboost as xgb
-from wandb.integration.xgboost import WandbCallback
-
-
-run = wandb.init(project="my-test-project-2")
 
 
 df_train = pd.read_csv('./data/train.csv')
+df_generated = pd.read_csv('./data/generated_data/generated_dataset0')
 
 
 split = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=5)
@@ -110,31 +106,18 @@ X_test = df_test_split_preprocessed.drop(columns=['Survived'])
 y_test = df_test_split_preprocessed[["Survived"]]
 
 
-config = wandb.config
-config.seed = 123
+xg_model = xgb.XGBClassifier()
 
-config.test_size = 0.2
-config.colsample_bytree = 0.3
-config.learning_rate = 0.01
-config.max_depth = 15
-config.alpha = 10
-config.n_estimators = 5
+xg_model.fit(X_train,y_train)
 
-wandb.config.update(config)
+testset_preds = xg_model.predict(X_test)
+print(f"Accuracy on hold-out test set: {accuracy_score(y_test, testset_preds)}")
 
-xg_model = xgb.XGBClassifier(objective='binary:logistic', 
-    colsample_bytree=config.colsample_bytree, 
-    learning_rate=config.learning_rate,
-    max_depth=config.max_depth, 
-    alpha=config.alpha, 
-    n_estimators=config.n_estimators)
 
-xg_model.fit(X_train,y_train,
-           callbacks=[WandbCallback()]
-)
+generated_preprocessed = pipe.fit_transform(df_generated)
 
-preds = xg_model.predict(X_test)
+X_test_generatated = generated_preprocessed.drop(columns=['Survived'])
+y_test_generated = generated_preprocessed[["Survived"]]
 
-run.summary["test_score"] = accuracy_score(y_test, preds)
-
-wandb.finish()
+generated_preds = xg_model.predict(X_test_generatated)
+print(f"Accuracy on generated test set: {accuracy_score(y_test_generated, generated_preds)}")
