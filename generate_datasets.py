@@ -95,11 +95,18 @@ def main():
     # Sample new datasets
     n_people = len(df_preprocessed)
     NUM_TITANICS = 10
-    for i in range(NUM_TITANICS):
+    fractions = [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,0.9]
+
+    for i, fraction in zip(range(NUM_TITANICS), fractions):
         new_data = model.sample(num_rows=n_people)
 
-        # Randomly select people from pclass3 (some small %) and with some probability p, flip their survival to 0
+        # Randomly select some small % of people from pclass1 and with some probability p, flip their survival to 0
+        # Currently trying just sampling some % of people from the whole dataset
+        sample = new_data.sample(frac=fraction)
+        sample['Survived'] = 1
+        new_data.loc[sample.index] = sample.values
 
+        # Save data
         new_data.to_csv(f'./data/generated_data/generated_dataset{i}.csv', index=False)
 
 
