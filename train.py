@@ -1,9 +1,11 @@
+import json
 import numpy as np
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score, auc, roc_auc_score, roc_curve
 from sklearn.model_selection import GridSearchCV, StratifiedShuffleSplit, train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
@@ -113,18 +115,18 @@ y_test = df_test_split_preprocessed["Survived"]
 
 
 # WandB
+# Create a W&B Table and log 50 random rows of the dataset to explore
+train_table = wandb.Table(dataframe=df_train_split_preprocessed.sample(50))
+test_table = wandb.Table(dataframe=df_test_split_preprocessed.sample(50))
+
+# Log the Table to your W&B workspace
+wandb.log({'processed_train_dataset': train_table})
+wandb.log({'processed_test_dataset': test_table})
+
+
+
 xg_train = xgb.DMatrix(X_train, label=y_train)
 xg_test = xgb.DMatrix(X_test, label=y_test)
-# setup parameters for xgboost
-# param = {}
-# # use logistic binary classification
-# param['objective'] = 'binary:logistic'
-# # scale weight of positive examples
-# param['eta'] = 0.1
-# param['max_depth'] = 6
-# param['silent'] = 1
-# param['nthread'] = 4
-# param['num_class'] = 2
 param = {
         'objective': 'binary:logistic'
         , 'gamma': 1               ## def: 0
@@ -138,32 +140,71 @@ param = {
         , 'reg_lambda': 0          ## def: 1
         , 'eval_metric': ['auc', 'logloss']
         , 'tree_method': 'hist'  # use gpu_hist to train on GPU
+        , 'callbacks' : [wandb_callback()]
     }
-#wandb.config.update(param)
+
 run.config.update(dict(param))
-xgbmodel = xgb.XGBClassifier(**param, use_label_encoder=False)
-xgbmodel.fit(X_train, y_train, eval_set=[(X_test, y_test)], callbacks=[wandb_callback()])
-bstr = xgbmodel.get_booster()
+
+# Training
+booster = xgb.train(
+    {'objective': 'binary:logistic',
+     'eval_metric': ['auc', 'logloss'],
+     'tree_method': 'hist'
+     }, xg_train,
+    evals=[(xg_train, 'Train'), (xg_test, 'Test')],
+    num_boost_round=100
+)
+
+
+# Saving and logging info 
 # Save the booster to disk
 model_name = f'{run.name}_model.json'
-model_path = model_dir/model_name
-bstr.save_model(str(model_path))
+model_dir = "./model"
+model_path = f"{model_dir}/{model_name}"
+booster.save_model(str(model_path))
 
 # Get the booster's config
-config = json.loads(bstr.save_config())
+config = json.loads(booster.save_config())
 
 # Log the trained model to W&B Artifacts, including the booster's config
 model_art = wandb.Artifact(name=model_name, type='model', metadata=dict(config))
 model_art.add_file(model_path)
 run.log_artifact(model_art)
 
+# Add the additional data from the booster's config to the run config
+run.config.update(dict(config))
 
-# watchlist = [(xg_train, 'train'), (xg_test, 'test')]
-# num_round = 5
-# bst = xgb.train(params=param, dtrain=xg_train, evals=watchlist, num_boost_round=num_round,callbacks=[wandb_callback()])
-# #bst = xgb.train(param, xg_train, num_round, watchlist, callbacks=[wandb_callback()])
-# # get prediction
-# pred = bst.predict(xg_test)
-# error_rate = np.sum(pred != y_test) / y_test.shape[0]
-# print(f'Test error using logistic = {error_rate}')
-# wandb.summary['Error Rate'] = error_rate
+# Get train and validation predictions
+y_pred_train = booster.predict(xg_train)
+y_pred_test = booster.predict(xg_test)
+
+# Log additional Train metrics
+y_pred_test_classes = np.where(y_pred_test >= 0.5, 1, 0)
+
+false_positive_rate, true_positive_rate, thresholds = roc_curve(y_train, y_pred_train) 
+run.summary['train_ks_stat'] = max(true_positive_rate - false_positive_rate)
+run.summary['train_auc'] = auc(false_positive_rate, true_positive_rate)
+run.summary['train_log_loss'] = -(y_train * np.log(y_pred_train) + (1-y_train) * np.log(1-y_pred_train)).sum() / len(y_train)
+
+# Log additional Validation metrics
+run.summary["val_auc"] = roc_auc_score(y_test, y_pred_test)
+run.summary["val_acc_0.5"] = accuracy_score(y_test, y_pred_test_classes)
+run.summary["val_log_loss"] = -(y_test * np.log(y_pred_test) + (1-y_test) * np.log(1-y_pred_test)).sum() / len(y_test)
+
+y_test_preds_2d = np.array([1-y_pred_test, y_pred_test])  # W&B expects a 2d array
+y_test_arr = y_test.values
+d = 0
+while len(y_test_preds_2d.T) > 10000:
+    d +=1
+    y_test_preds_2d = y_test_preds_2d[::1, ::d]
+    y_test_arr = y_test_arr[::d]
+run.log({"ROC_Curve" : wandb.plot.roc_curve(y_test_arr, y_test_preds_2d.T,
+                                           labels=['did not survive','survived'],
+                                           classes_to_plot=[1])})
+
+# Log Feature Importance
+fi = booster.get_fscore()
+fi_data = [[k, fi[k]] for k in fi]
+table = wandb.Table(data=fi_data, columns = ["Feature", "Importance"])
+run.log({"Feature Importance" : wandb.plot.bar(table, "Feature",
+                               "Importance", title="Feature Importance")})
