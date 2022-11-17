@@ -8,3 +8,4 @@ pyvenv.cfg
 wandb/
 .ipynb_checkpoints/
 model/
+etc/

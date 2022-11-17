@@ -152,13 +152,13 @@ booster = xgb.train(
      'tree_method': 'hist'
      }, xg_train,
     evals=[(xg_train, 'Train'), (xg_test, 'Test')],
-    num_boost_round=100
+    num_boost_round=50
 )
 
 
 # Saving and logging info 
 # Save the booster to disk
-model_name = f'{run.name}_model.json'
+model_name = f'{run.name}-model.json'
 model_dir = "./model"
 model_path = f"{model_dir}/{model_name}"
 booster.save_model(str(model_path))
