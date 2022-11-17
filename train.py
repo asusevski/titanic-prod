@@ -141,7 +141,7 @@ param = {
         , 'eval_metric': ['auc', 'logloss']
         , 'tree_method': 'hist'  # use gpu_hist to train on GPU
         , 'callbacks' : [wandb_callback()]
-    }
+}
 
 run.config.update(dict(param))
 
