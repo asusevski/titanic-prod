@@ -124,7 +124,6 @@ wandb.log({'processed_train_dataset': train_table})
 wandb.log({'processed_test_dataset': test_table})
 
 
-
 xg_train = xgb.DMatrix(X_train, label=y_train)
 xg_test = xgb.DMatrix(X_test, label=y_test)
 param = {
