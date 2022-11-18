@@ -8,20 +8,20 @@ import wandb
 import xgboost as xgb
 
 
-def predict_and_log_metrics(model, dataset):
+def predict_and_log_metrics(model, dataset, dataset_num, run):
     X = dataset.drop(columns=['Survived'])
     y_true = dataset['Survived'].values
     xg_data = xgb.DMatrix(X, label=y_true)
     y_pred = model.predict(xg_data)
     y_pred = np.where(y_pred >= 0.5, 1, 0)
-    print(accuracy_score(y_true, y_pred))
     
     # Log stats
-    #run.summary['train_log_loss'] = -(y_train * np.log(y_pred_train) + (1-y_train) * np.log(1-y_pred_train)).sum() / len(y_train)
+    run.summary[f'accuracy-{dataset_num}'] = accuracy_score(y_true, y_pred)
+    run.summary[f'log_loss-{dataset_num}'] = -(y_true * np.log(y_pred) + (1 - y_true) * np.log(1-y_pred)).sum() / len(y_true)
 
 
 def no_updating_model():
-    #run = wandb.init(project="my-test-project")
+    run = wandb.init(project="titanic-no-updating-model")
 
     filepath_to_model = "./model/charmed-firefly-38-model.json"
 
@@ -43,9 +43,10 @@ def no_updating_model():
         generated_datasets.append(df)
     
     df_train = pd.read_csv('./data/train_preprocessed.csv')
-    for df in generated_datasets:
+    for idx, df in enumerate(generated_datasets):
         # Predict on generated dataset
-        predict_and_log_metrics(model, df)
+        predict_and_log_metrics(model, df, idx, run)
+    wandb.finish()
 
 
 def train_model(df):
@@ -66,7 +67,7 @@ def train_model(df):
 
 
 def update_model():
-    #run = wandb.init(project="my-test-project")
+    run = wandb.init(project="titanic-updating-model")
 
     # Read train data
     df_train = pd.read_csv('./data/train_preprocessed.csv')
@@ -90,9 +91,9 @@ def update_model():
         df['trend'] = idx + 1
         generated_datasets.append(df)
 
-    for df in generated_datasets:
+    for idx, df in enumerate(generated_datasets):
         # Predict on data THEN update the model (simply re-training from scratch)
-        predict_and_log_metrics(model, df)
+        predict_and_log_metrics(model, df, idx, run)
 
         # Add new dataset to training data
         df_train = pd.concat([df_train, df]).reset_index(drop=True)
@@ -102,7 +103,7 @@ def update_model():
         
 
 def main():
-    #no_updating_model()
+    no_updating_model()
     #update_model()
         
 
