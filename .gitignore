@@ -9,6 +9,14 @@ wandb/
 .ipynb_checkpoints/
 <<<<<<< HEAD
 model/
+<<<<<<< HEAD
 =======
 tmp.py
 >>>>>>> 369f11583313b7654913da4e81fffe22f2c98021
+=======
+etc/
+
+# Testing stuff with different data generating scripts
+data/generated_data2/
+generate_datasets2.py
+>>>>>>> wandb

@@ -132,24 +132,23 @@ wandb.log({'processed_train_dataset': train_table})
 wandb.log({'processed_test_dataset': test_table})
 
 
-
 xg_train = xgb.DMatrix(X_train, label=y_train)
 xg_test = xgb.DMatrix(X_test, label=y_test)
 param = {
-        'objective': 'binary:logistic'
-        , 'gamma': 1               ## def: 0
-        , 'learning_rate': 0.1     ## def: 0.1
-        , 'max_depth': 3
-        , 'min_child_weight': 100  ## def: 1
-        , 'n_estimators': 25
-        , 'nthread': 24 
-        , 'random_state': 42
-        , 'reg_alpha': 0
-        , 'reg_lambda': 0          ## def: 1
-        , 'eval_metric': ['auc', 'logloss']
-        , 'tree_method': 'hist'  # use gpu_hist to train on GPU
-        , 'callbacks' : [wandb_callback()]
-    }
+        'objective': 'binary:logistic',
+        'gamma': 1,  
+        'learning_rate': 0.1,
+        'max_depth': 3,
+        'min_child_weight': 100,
+        'n_estimators': 25,
+        'nthread': 24,
+        'random_state': 42,
+        'reg_alpha': 0,
+        'reg_lambda': 0,         
+        'eval_metric': ['auc', 'logloss'],
+        'tree_method': 'hist', 
+        'callbacks' : [wandb_callback()]
+}
 
 run.config.update(dict(param))
 
@@ -160,13 +159,13 @@ booster = xgb.train(
      'tree_method': 'hist'
      }, xg_train,
     evals=[(xg_train, 'Train'), (xg_test, 'Test')],
-    num_boost_round=100
+    num_boost_round=50
 )
 
 
 # Saving and logging info 
 # Save the booster to disk
-model_name = f'{run.name}_model.json'
+model_name = f'{run.name}-model.json'
 model_dir = "./model"
 model_path = f"{model_dir}/{model_name}"
 booster.save_model(str(model_path))
