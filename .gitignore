@@ -7,4 +7,8 @@ share/
 pyvenv.cfg
 wandb/
 .ipynb_checkpoints/
+<<<<<<< HEAD
 model/
+=======
+tmp.py
+>>>>>>> 369f11583313b7654913da4e81fffe22f2c98021

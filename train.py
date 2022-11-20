@@ -1,21 +1,28 @@
+<<<<<<< HEAD
 import json
 import numpy as np
+=======
+>>>>>>> 369f11583313b7654913da4e81fffe22f2c98021
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.impute import SimpleImputer
+<<<<<<< HEAD
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, auc, roc_auc_score, roc_curve
 from sklearn.model_selection import GridSearchCV, StratifiedShuffleSplit, train_test_split
+=======
+from sklearn.model_selection import StratifiedShuffleSplit
+from sklearn.metrics import accuracy_score
+>>>>>>> 369f11583313b7654913da4e81fffe22f2c98021
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
 import wandb
 import xgboost as xgb
-from wandb.xgboost import wandb_callback
+from wandb.integration.xgboost import WandbCallback
 
 
-run = wandb.init(project="my-test-project")
+run = wandb.init(project="my-test-project-2")
 
 
 df_train = pd.read_csv('./data/train.csv')
@@ -108,9 +115,10 @@ df_train_split_preprocessed = pipe.fit_transform(train_split)
 df_test_split_preprocessed = pipe.fit_transform(test_split)
 
 X_train = df_train_split_preprocessed.drop(columns=['Survived'])
-y_train = df_train_split_preprocessed["Survived"]
+y_train = df_train_split_preprocessed[["Survived"]]
 
 X_test = df_test_split_preprocessed.drop(columns=['Survived'])
+<<<<<<< HEAD
 y_test = df_test_split_preprocessed["Survived"]
 
 
@@ -208,3 +216,36 @@ fi_data = [[k, fi[k]] for k in fi]
 table = wandb.Table(data=fi_data, columns = ["Feature", "Importance"])
 run.log({"Feature Importance" : wandb.plot.bar(table, "Feature",
                                "Importance", title="Feature Importance")})
+=======
+y_test = df_test_split_preprocessed[["Survived"]]
+
+
+config = wandb.config
+config.seed = 123
+
+config.test_size = 0.2
+config.colsample_bytree = 0.3
+config.learning_rate = 0.01
+config.max_depth = 15
+config.alpha = 10
+config.n_estimators = 5
+
+wandb.config.update(config)
+
+xg_model = xgb.XGBClassifier(objective='binary:logistic', 
+    colsample_bytree=config.colsample_bytree, 
+    learning_rate=config.learning_rate,
+    max_depth=config.max_depth, 
+    alpha=config.alpha, 
+    n_estimators=config.n_estimators)
+
+xg_model.fit(X_train,y_train,
+           callbacks=[WandbCallback()]
+)
+
+preds = xg_model.predict(X_test)
+
+run.summary["test_score"] = accuracy_score(y_test, preds)
+
+wandb.finish()
+>>>>>>> 369f11583313b7654913da4e81fffe22f2c98021
