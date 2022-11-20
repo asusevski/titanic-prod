@@ -9,3 +9,7 @@ wandb/
 .ipynb_checkpoints/
 model/
 etc/
+
+# Testing stuff with different data generating scripts
+data/generated_data2/
+generate_datasets2.py

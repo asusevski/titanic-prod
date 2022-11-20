@@ -3,7 +3,7 @@ import numpy as np
 import os
 import pandas as pd
 import re
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, log_loss
 import wandb
 import xgboost as xgb
 
@@ -17,13 +17,13 @@ def predict_and_log_metrics(model, dataset, dataset_num, run):
     
     # Log stats
     run.summary[f'accuracy-{dataset_num}'] = accuracy_score(y_true, y_pred)
-    run.summary[f'log_loss-{dataset_num}'] = -(y_true * np.log(y_pred) + (1 - y_true) * np.log(1-y_pred)).sum() / len(y_true)
+    run.summary[f'log_loss-{dataset_num}'] = log_loss(y_true, y_pred)
 
 
 def no_updating_model():
     run = wandb.init(project="titanic-no-updating-model")
 
-    filepath_to_model = "./model/charmed-firefly-38-model.json"
+    filepath_to_model = "./model/amber-meadow-40-model.json"
 
     # Load model
     model = xgb.Booster()
@@ -99,12 +99,12 @@ def update_model():
         df_train = pd.concat([df_train, df]).reset_index(drop=True)
         
         # Re-train model
-        model = train_model_and_log_metrics(df_train)
+        model = train_model(df_train)
         
 
 def main():
-    no_updating_model()
-    #update_model()
+    #no_updating_model()
+    update_model()
         
 
 if __name__=="__main__":

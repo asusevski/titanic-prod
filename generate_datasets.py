@@ -89,19 +89,22 @@ def main():
     df_preprocessed = pipe.fit_transform(df)
 
     # Create CTGAN model and fit to preprocessed data
-    model = CTGAN()
+    model = CTGAN(
+        epochs=500,
+        batch_size=200,
+        log_frequency=False
+    )
     model.fit(df_preprocessed)
 
     # Sample new datasets
     n_people = len(df_preprocessed)
     NUM_TITANICS = 10
-    fractions = [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,0.9]
+    fractions = [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.8,0.8]
 
     for i, fraction in zip(range(NUM_TITANICS), fractions):
         new_data = model.sample(num_rows=n_people)
 
-        # Randomly select some small % of people from pclass1 and with some probability p, flip their survival to 0
-        # Currently trying just sampling some % of people from the whole dataset
+        # Randomly select some % of people and flip their survival to 1
         sample = new_data.sample(frac=fraction)
         sample['Survived'] = 1
         new_data.loc[sample.index] = sample.values
