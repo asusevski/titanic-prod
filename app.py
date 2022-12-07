@@ -20,6 +20,30 @@ def predict_and_log_metrics(model, dataset, dataset_num, run):
     run.summary[f'log_loss-{dataset_num}'] = log_loss(y_true, y_pred)
 
 
+def plot_accuracy(run, num_datasets, title):
+    accuracies = []
+    for i in range(num_datasets):
+        accuracy = run.summary[f'accuracy-{i}']
+        accuracies.append(accuracy)
+    
+    titanics = list(range(1,11))
+    data = [[titanic_num, accuracy] for (titanic_num, accuracy) in zip(titanics, accuracies)]
+    table = wandb.Table(data=data, columns=["titanic_generation", "accuracy"])
+    run.log({"Accuracies Over Time" : wandb.plot.line(table, "titanic_generation", "accuracy", title=title)})
+
+
+def plot_log_loss(run, num_datasets, title):
+    log_losses = []
+    for i in range(num_datasets):
+        log_loss = run.summary[f'log_loss-{i}']
+        log_losses.append(log_loss)
+    
+    titanics = list(range(1,11))
+    data = [[titanic_num, log_loss] for (titanic_num, log_loss) in zip(titanics, log_losses)]
+    table = wandb.Table(data=data, columns=["titanic_generation", "log_loss"])
+    run.log({"Log-Loss Over Time" : wandb.plot.line(table, "titanic_generation", "log_loss", title=title)})
+
+
 def no_updating_model():
     run = wandb.init(project="titanic-no-updating-model")
 
@@ -46,6 +70,10 @@ def no_updating_model():
     for idx, df in enumerate(generated_datasets):
         # Predict on generated dataset
         predict_and_log_metrics(model, df, idx, run)
+
+    # Visualize the accuracy and log-loss across the 10 titanics
+    plot_accuracy(run, 10, "Accuracy over time (no updating model)")
+    plot_log_loss(run, 10, "Log-Loss over time (no updating model)")
     wandb.finish()
 
 
@@ -100,11 +128,16 @@ def update_model():
         
         # Re-train model
         model = train_model(df_train)
+
+    # Visualize the accuracy and log-loss across the 10 titanics
+    plot_accuracy(run, 10, "Accuracy over time (with updating model)")
+    plot_log_loss(run, 10, "Log-Loss over time (with updating model)")
+    wandb.finish()
         
 
 def main():
-    #no_updating_model()
-    update_model()
+    no_updating_model()
+    #update_model()
         
 
 if __name__=="__main__":
