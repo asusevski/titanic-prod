@@ -157,10 +157,6 @@ def update_model(run):
         # Re-train model
         model = train_model(df_train)
 
-    # Visualize the accuracy and log-loss across the 10 titanics
-    # plot_accuracy(run, 10, "Accuracy over time (with updating model)")
-    # plot_log_loss(run, 10, "Log-Loss over time (with updating model)")
-
 
 def plot_updating_model_vs_no_updating_model(run):
     plot_accuracy(run, 10, "Plotting accuracy updating model vs no updating model")
