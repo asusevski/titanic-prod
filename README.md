@@ -82,3 +82,8 @@ The framework of the typical data science project does a slight disservice to be
 to the model's performance in the real world with new data**. By taking the classic beginner Titanic project and extending it to a simulated "real world" environment, 
 I hope that I've helped shift some mindsets to a more holistic view of data science projects and the types of interesting questions we can ask about "completed" data 
 science projects.
+
+---
+
+*Disclaimer: the data generated for each of the new Titanics definitely don't capture the dynamics of the original Titanic dataset. This was for educational purposes 
+only.*
